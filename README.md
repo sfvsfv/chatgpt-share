@@ -14,4 +14,5 @@ ChatGPT 3.5 公益授权码：chatgpt-3.5-free
 
 
 售后群：
+
 ![image](https://github.com/sfvsfv/gpt-share/assets/62045791/f3a4abf2-db9d-4380-8b14-2c467bf492e0)
