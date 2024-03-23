@@ -2,9 +2,9 @@
 
 地址：https://hello.zhangsan.shop/list
 
-ChatGPT 3.5 公益授权码：chatgpt-3.5-free 
 
-4.0授权码：https://test.chuanchuan.cloud 这里获取
+
+授权码：https://test.chuanchuan.cloud 这里获取
 
 
 ![image](https://github.com/sfvsfv/gpt-share/assets/62045791/4bb5440d-51cb-4f90-a63a-fff847b0abac)
