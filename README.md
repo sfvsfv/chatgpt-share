@@ -6,6 +6,8 @@
 
 店铺地址：https://test.chuanchuan.cloud 
 
+网站使用教程： https://docs.qq.com/doc/DRnlSZnJOTlJ6Z21m
+
 
 ![image](https://github.com/sfvsfv/gpt-share/assets/62045791/4bb5440d-51cb-4f90-a63a-fff847b0abac)
 
