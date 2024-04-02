@@ -106,38 +106,48 @@ windows桌面版：
 为什么需要使用GPTS呢？因为它能更加专业回答你的问题，因此如果你觉得主界面提问回答质量不够理想，可以去选择一个合适的GPTS使用。
 
 点击这里可以进入GPTS界面：
+![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/38d5bfb5-90e7-40e1-ae70-71e5885cffa2)
 
 这里有大量供你选择：
+![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/9ddce336-41b3-40a2-94d0-cb184007f442)
+
 
 那么多的工具，我们该如何选择呢？下面根据我自己常用的，按分类帮大家推荐一些优秀的工具。
 
-数据分析
+### 数据分析
 这个是原来官网的数据分析插件，现在被搬运到GPTS来了：
 
+![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/3a3fc84a-159c-43a3-ba15-50b3d80bb49a)
 
 地址：https://hello.zhangsan.shop/g/g-HMNcP6w7d-data-analyst
+![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/09a162e2-8f78-4020-8188-d00974829e7c)
 
 
-图像设计
+### 图像设计
 如果你想用它画画，可以优先选择这一部分的GPTS：
+![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/91375013-d99d-4b42-ae99-53ce43211539)
 
 
-各种图表/流程图/序列图/思维导图
+### 各种图表/流程图/序列图/思维导图
 地址：https://hello.zhangsan.shop/g/g-5QhhdsfDj-diagrams-show-me
 
+![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/0eda5b93-2d1f-4c9c-a98c-b5beacbca48a)
 
 
-联网搜索
+### 联网搜索
 地址：https://hello.zhangsan.shop/g/g-pNWGgUYqS-webpilot
+![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/f22f776f-b069-4a18-b33c-667ed1b04d42)
 
 当然，主界面（https://hello.zhangsan.shop/）提问也是自带联网，但是提问的时候请加”联网“两个字：
+![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/21696a35-158f-4ba9-bacd-519410aec85f)
 
 
 
-Python助手
+### Python助手
 专业的PythonGPTS工具，地址：https://hello.zhangsan.shop/g/g-cKXjWStaE-python
 
 例如：
+![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/09891e20-65f2-4e0d-8d88-dded2abe462d)
 
 
 
@@ -145,38 +155,47 @@ Python助手
 地址：https://hello.zhangsan.shop/g/g-2DQzU5UZl-code-copilot
 
 例如：
+![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/993205bf-e046-4993-92df-2c4577e1576f)
 
 
 SQL代码助手
 地址：https://hello.zhangsan.shop/g/g-m5lMeGifF-sql-expert
 
 例如：
+![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/a837d84a-abbe-40e2-a9ff-c0c726f6b4da)
 
 
 Matlab代码助手
 专业回答Matlab问题，地址：https://hello.zhangsan.shop/g/g-w6u2v1z4A-matlab
 
 例如：
+![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/12f035ee-d54c-4df9-9b07-8c10a99c0a24)
 
 
 C和C++助手
 C语言地址：https://hello.zhangsan.shop/g/g-Dqqwww3pM-c
+![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/bc737b07-260b-4839-bb23-c06d10808390)
 
 C++助手地址：https://hello.zhangsan.shop/g/g-Bgk8s1qOs-c
+![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/b85db906-c2e4-4a33-9f57-e2fce98c07ba)
 
 
 R语言代码助手
 
 地址：https://hello.zhangsan.shop/g/g-iedyANQtM-r-and-r-studio-tutor
+![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/d439d628-7cd2-488d-b82a-1c6f9d0b2840)
 
 
 论文助手（改写 润色 降重）
 地址：https://hello.zhangsan.shop/g/g-wkzpyfRp2-lun-wen-zhu-shou
+![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/3893bffa-acaf-4889-ae89-0bf081437c9a)
 
 论文降重（重述/降重）
 地址：https://hello.zhangsan.shop/g/g-SSzkSbljn-bi-ye-lun-wen-jiang-zhong
+![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/7a4af2a3-a82e-45cd-b6c4-890a5c53cf1b)
 
 地址：https://hello.zhangsan.shop/g/g-OA8uckJgl-zhong-wen-lun-wen-jiang-zhong
+![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/b633b437-752e-4d83-adf3-5f86d6b9618c)
 
 
 学术论文润色（顶刊润色）
@@ -186,29 +205,35 @@ R语言代码助手
 
 文献搜索（Scholar AI，Scholar GPT）
 专业的文献工具，地址：https://hello.zhangsan.shop/g/g-L2HknCZTC-scholar-ai
+![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/d883bc57-1ff7-4906-880d-e82e06e79328)
 
 
 Scholar GPT也可以，应该查不到的数据库，地址：https://hello.zhangsan.shop/g/g-kZ0eYXlJe-scholar-gpt
 
 PDF学术分析（AskYourPDF）
 地址：https://hello.zhangsan.shop/g/g-UfFxTDMxq-askyourpdf-research-assistant
+![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/9fbb66b4-e579-42bb-bd3e-54abc3f0d576)
 
 
 大学的数学问题求解
 地址：https://hello.zhangsan.shop/g/g-odWlfAKWM-math
 
 例如：
+![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/2e3d865b-ffb6-4b25-be76-305416976fb7)
 
 他会用代码帮你进行求解，如果错误，他会重新进行求解：
+![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/d55163e5-65b9-4c67-a27e-0b2a57e9146a)
 
 
 
 这个也可以：https://hello.zhangsan.shop/g/g-9YeZz6m6k-math-solver  可以按步骤求解
+![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/5954901c-bdda-4665-aa8e-fa4453d2d681)
 
 
 
 更多GPTS
 你可以根据自己需求，在这里搜索相关的关键词即可：https://hello.zhangsan.shop/gpts
+![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/96f754f2-5dbf-4d8c-bd74-c84001977c84)
 
 
 
