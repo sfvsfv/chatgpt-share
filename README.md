@@ -114,6 +114,16 @@ windows桌面版：
 具体需要问什么，根据你的需求来即可。
 ![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/78ceb22b-4a39-4014-9aff-d1d14826b3e5)
 
+
+### 图像局部编辑
+
+![0d2ff8afabe2a2120834a5dd641950f4](https://github.com/sfvsfv/chatgpt-share/assets/62045791/ec1947d5-90ad-447f-b778-2166cb60cce6)
+
+![f070fa512a4b1f53dd5f2092585f5649](https://github.com/sfvsfv/chatgpt-share/assets/62045791/c4779718-a49d-44b8-98ee-e5d9cd0c7c39)
+
+![214261d9c76f474bb6069c26b56b21ce](https://github.com/sfvsfv/chatgpt-share/assets/62045791/161543a3-36e2-45ba-89db-8a533f30126c)
+
+
 ## 优秀的GPTS推荐
 为什么需要使用GPTS呢？因为它能更加专业回答你的问题，因此如果你觉得主界面提问回答质量不够理想，可以去选择一个合适的GPTS使用。
 
