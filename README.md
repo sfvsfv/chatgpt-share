@@ -237,11 +237,8 @@ C++助手地址：https://hello.zhangsan.shop/g/g-Bgk8s1qOs-c
 地址：https://hello.zhangsan.shop/g/g-DfjUtk6PI-wen-xian-zong-shu-zhi-wang
 
 ### 文献搜索（Scholar AI，Scholar GPT）
-专业的文献工具，地址：https://hello.zhangsan.shop/g/g-L2HknCZTC-scholar-ai
-![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/d883bc57-1ff7-4906-880d-e82e06e79328)
 
-
-Scholar GPT也可以，应该查不到的数据库，地址：https://hello.zhangsan.shop/g/g-kZ0eYXlJe-scholar-gpt
+Scholar GPT，地址：https://hello.zhangsan.shop/g/g-kZ0eYXlJe-scholar-gpt
 
 ### PDF学术分析（AskYourPDF）
 地址：https://hello.zhangsan.shop/g/g-UfFxTDMxq-askyourpdf-research-assistant
