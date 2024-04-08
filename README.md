@@ -2,6 +2,10 @@
 
 地址：https://hello.zhangsan.shop/list
 
+备用站点一： https://share.mosha.cloud/list    (主站无法使用情况下再选择备用站）
+
+备用站点二：https://hello.zhangshan.xyz/list  (主站无法使用情况下再选择备用站）
+
 
 
 店铺地址：https://test.chuanchuan.cloud 
