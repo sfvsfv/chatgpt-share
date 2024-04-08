@@ -1,6 +1,6 @@
 # ChatGPT提示词技巧，使用教程，国内版官网直达，非套壳
 
-地址：https://hello.zhangsan.shop/list
+主站点：https://hello.zhangsan.shop/list
 
 备用站点一： https://share.mosha.cloud/list    (主站无法使用情况下再选择备用站）
 
