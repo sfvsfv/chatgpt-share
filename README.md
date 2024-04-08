@@ -163,7 +163,14 @@ windows桌面版：
 当然，主界面（https://hello.zhangsan.shop/）提问也是自带联网，但是提问的时候请加”联网“两个字：
 ![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/21696a35-158f-4ba9-bacd-519410aec85f)
 
+### 数学建模编程专属助手
 
+地址：https://hello.zhangsan.shop/g/g-x2Ri0iGVr-shu-xue-jian-mo-bi-sai-bian-cheng-zhu-shou
+
+演示如下：
+![bbbedac41c5888dd3e1e315fb24a0ac1](https://github.com/sfvsfv/chatgpt-share/assets/62045791/2cac5676-e633-4738-bb64-f37889c07d78)
+
+![5cd32730f3e14a6f18df93ff7b1f7538](https://github.com/sfvsfv/chatgpt-share/assets/62045791/dfdd8fc7-05fd-4fc8-8563-6dbe6052db8b)
 
 ### Python助手
 专业的PythonGPTS工具，地址：https://hello.zhangsan.shop/g/g-cKXjWStaE-python
