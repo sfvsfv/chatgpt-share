@@ -18,7 +18,7 @@
 ![image](https://github.com/sfvsfv/gpt-share/assets/62045791/4b6086a9-2b6a-4ff2-b60d-83f699171ddb)
 
 
-售后QQ群：952889979 
+售后QQ群：306943285
 ## 网站敏感词
 
 所有敏感词见这里：https://github.com/sfvsfv/sensitive_words/blob/main/min_word_processed.txt
@@ -475,7 +475,7 @@ content
 这是三群，如果你已经加了另外的群，无需重复加入。代理/网站搭建等服务，请联系群主。
 
 
-qq群：952889979   
+qq群：306943285
                    
 
 站点：https://hello.zhangsan.shop/
