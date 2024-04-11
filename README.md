@@ -174,6 +174,9 @@ windows桌面版：
 
 ### 数学建模编程专属助手
 
+![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/235476ab-76be-41b1-925b-ee4d2d71002c)
+
+
 地址：https://hello.zhangsan.shop/g/g-x2Ri0iGVr-shu-xue-jian-mo-bi-sai-bian-cheng-zhu-shou
 
 演示如下：
