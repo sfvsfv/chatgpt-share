@@ -19,6 +19,10 @@
 
 
 售后QQ群：306943285
+## 视频教学
+见b站：https://space.bilibili.com/591228087
+
+
 ## 网站敏感词
 
 所有敏感词见这里：https://github.com/sfvsfv/sensitive_words/blob/main/min_word_processed.txt
