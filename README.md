@@ -2,9 +2,9 @@
 
 主站点：https://hello.zhangsan.shop/list
 
-备用站点一： https://share.mosha.cloud/list    (主站无法使用情况下再选择备用站）
+备用站点： https://share.mosha.cloud/list    (主站无法使用情况下再选择备用站）
 
-备用站点二：https://hello.zhangshan.xyz/list  (主站无法使用情况下再选择备用站）
+
 
 
 
