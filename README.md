@@ -18,7 +18,7 @@
 ![image](https://github.com/sfvsfv/gpt-share/assets/62045791/4b6086a9-2b6a-4ff2-b60d-83f699171ddb)
 
 
-售后QQ群：306943285
+售后QQ群：959956662
 ## 视频教学
 见b站：https://space.bilibili.com/591228087
 
