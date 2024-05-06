@@ -278,6 +278,11 @@ Scholar GPT，地址：https://hello.zhangsan.shop/g/g-kZ0eYXlJe-scholar-gpt
 <img width="981" alt="image" src="https://github.com/sfvsfv/chatgpt-share/assets/62045791/fa2e452f-8c68-44c6-a9cc-7f747ecbf85d">
 
 
+### 甜甜女友：
+使用地址：
+https://chatgpt.com/g/g-Ib3idOvWp-tian-tian-nu-you
+
+<img width="1295" alt="image" src="https://github.com/sfvsfv/chatgpt-share/assets/62045791/3c91735b-f220-466b-814e-399bc705c0da">
 
 ### 更多GPTS
 你可以根据自己需求，在这里搜索相关的关键词即可：https://hello.zhangsan.shop/gpts
