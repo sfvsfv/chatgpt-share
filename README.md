@@ -5,9 +5,6 @@
 备用站点： https://share.mosha.cloud/list    (主站如果加载慢，卡顿等情况下可以选择备用站））
 
 
-
-
-
 店铺地址：https://test.chuanchuan.cloud  （江苏福建地区打不开，需要魔法）
 
 
@@ -77,8 +74,6 @@ windows桌面版：
 没有个账号都有对应的状态，分别为”空闲“，”繁忙“，”停运“，”翻车",其中主要看到的为：”空闲“，”繁忙“，”停运“这三个状态，具体说明如下：
 
 ●空闲：表示该账号完全没有被使用，所以如果有空闲状态的入口，请首选空闲的进入。
-
-●繁忙：表示该入口的账号被使用了一部分，但也可以使用，次选该状态的入口。
 
 ●停运：表示该账户已达到频率限制顶峰，需要等到达对应时间后才能被使用，请不要选择该状态账户使用。
 ![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/40d8c86b-f4a2-4446-be84-90e48fce6933)
@@ -178,10 +173,10 @@ windows桌面版：
 
 ### 数学建模编程专属助手
 
-![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/235476ab-76be-41b1-925b-ee4d2d71002c)
+![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/8fed4abb-c9a7-456e-864e-13abfe109b31)
 
 
-地址：https://hello.zhangsan.shop/g/g-x2Ri0iGVr-shu-xue-jian-mo-bi-sai-bian-cheng-zhu-shou
+地址：[https://hello.zhangsan.shop/g/g-x2Ri0iGVr-shu-xue-jian-mo-bi-sai-bian-cheng-zhu-shou](https://hello.zhangsan.shop/g/g-fwQfcaTKA-shu-xue-jian-mo-bi-sai-bian-cheng-zhu-shou)
 
 演示如下：
 ![bbbedac41c5888dd3e1e315fb24a0ac1](https://github.com/sfvsfv/chatgpt-share/assets/62045791/2cac5676-e633-4738-bb64-f37889c07d78)
@@ -366,13 +361,13 @@ GPT帮你完成了对应的文本内容，你依然需要人为的去检查和�
 本教程仅用于个人用途，教程中相关提示词和网站为个人原创，如需商业用途，请标明来源。
 
 ### 最新售后群
-这是三群，如果你已经加了另外的群，无需重复加入。代理/网站搭建等服务，请联系群主。
+这是6群，如果你已经加了另外的群，无需重复加入。代理/网站搭建等服务，请联系群主。
 
 
-qq群：306943285
+qq6群：475949989 
                    
 
-站点：https://hello.zhangsan.shop/
+站点：https://hello.zhangsan.shop
 
 
 
