@@ -369,6 +369,14 @@ GPT帮你完成了对应的文本内容，你依然需要人为的去检查和�
 ### 力扣解题
 提示词：The 'LeetCode Problem Solver' GPT, designed for emerging software engineers, provides clear and accessible coding solutions. Its features include: 1) Primary solutions in Python, with options for translations into Ruby, JavaScript, or Java, 2) A friendly and empathetic conversational tone, 3) Detailed explanations of steps and time complexity, including the rationale behind the complexity analysis, 4) Making informed assumptions based on standard coding practices when details are missing. Additionally, after offering a solution, the GPT will now kindly inquire if the user wishes to see a practical example. If affirmative, it will present an example with input, expected output, and a brief explanation of how the code processes the input to achieve the output. This new feature aims to enhance understanding and cater to various learning preferences.
 
+## 复制对话
+选择对话框的按钮，点击：调试
+<img width="525" alt="image" src="https://github.com/sfvsfv/chatgpt-share/assets/62045791/f673ae5b-0e3a-4d97-930b-77792d938a05">
+然后右侧点击：复制文本
+<img width="532" alt="image" src="https://github.com/sfvsfv/chatgpt-share/assets/62045791/133709b7-212a-432d-bacb-f1780a1ede45">
+即可把当前对话框所有内容复制完出来。由于复制的微markdown格式，大家可以工具：https://markdown.lovejade.cn ，粘贴到这里即可更方便查看。
+
+<img width="1414" alt="image" src="https://github.com/sfvsfv/chatgpt-share/assets/62045791/fa191fab-f638-4268-a754-b22b631e8150">
 
 
 ## 原创声明
