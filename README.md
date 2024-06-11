@@ -163,6 +163,11 @@ windows桌面版：
 
 ![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/0eda5b93-2d1f-4c9c-a98c-b5beacbca48a)
 
+### PDF阅读工具
+地址：https://share.mosha.cloud/g/g-V2KIUZSj0-pdf-ai-pdf
+<img width="1271" alt="image" src="https://github.com/sfvsfv/chatgpt-share/assets/62045791/7e5fdca5-f28c-43cc-a0b1-ee5845597cd7">
+
+
 
 ### 联网搜索
 地址：https://hello.zhangsan.shop/g/g-pNWGgUYqS-webpilot
