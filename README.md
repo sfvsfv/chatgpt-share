@@ -1,9 +1,14 @@
 # ChatGPT提示词技巧，使用教程，国内版官网直达，非套壳
 
-主站点：https://hello.zhangsan.shop/list
+国外主站点：https://hello.zhangsan.shop/list
 
-备用站点： https://share.mosha.cloud/list    (主站如果加载慢，卡顿等情况下可以选择备用站））
+国内站点： https://share.mosha.cloud/list    (主站如果加载慢，卡顿等情况下可以使用这个））
 
+
+上述两个网站效果一样的，例如需要打开数学建模的插件，主站点是：
+https://hello.zhangsan.shop/g/g-fwQfcaTKA-shu-xue-jian-mo-bi-sai-bian-cheng-zhu-shou
+国内站点则如下，只需要替换后缀即可：
+https://share.mosha.cloud/g/g-fwQfcaTKA-shu-xue-jian-mo-bi-sai-bian-cheng-zhu-shou
 
 店铺地址：https://test.chuanchuan.cloud  （江苏福建地区打不开，需要魔法）
 
@@ -181,7 +186,7 @@ windows桌面版：
 ![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/8fed4abb-c9a7-456e-864e-13abfe109b31)
 
 
-地址：[https://hello.zhangsan.shop/g/g-x2Ri0iGVr-shu-xue-jian-mo-bi-sai-bian-cheng-zhu-shou](https://hello.zhangsan.shop/g/g-fwQfcaTKA-shu-xue-jian-mo-bi-sai-bian-cheng-zhu-shou)
+地址：[https://hello.zhangsan.shop/g/g-fwQfcaTKA-shu-xue-jian-mo-bi-sai-bian-cheng-zhu-shou](https://hello.zhangsan.shop/g/g-fwQfcaTKA-shu-xue-jian-mo-bi-sai-bian-cheng-zhu-shou)
 
 演示如下：
 ![bbbedac41c5888dd3e1e315fb24a0ac1](https://github.com/sfvsfv/chatgpt-share/assets/62045791/2cac5676-e633-4738-bb64-f37889c07d78)
