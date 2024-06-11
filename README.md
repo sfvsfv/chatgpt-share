@@ -21,8 +21,11 @@ https://share.mosha.cloud/g/g-fwQfcaTKA-shu-xue-jian-mo-bi-sai-bian-cheng-zhu-sh
 <img width="1618" alt="image" src="https://github.com/sfvsfv/chatgpt-share/assets/62045791/7af26bb8-7791-4024-91c7-255ad4de6a8b">
 
 
-售后QQ群：487877204
-## 视频教学
+售后QQ群：
+
+<img width="308" alt="image" src="https://github.com/sfvsfv/chatgpt-share/assets/62045791/62fad830-27e5-43e0-bcc6-326b92af0ef7">
+
+## 视频教学,每周更新
 见b站：https://space.bilibili.com/591228087
 
 
