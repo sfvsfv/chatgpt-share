@@ -3,10 +3,11 @@
 国外主站点：https://hello.zhangsan.shop/list
 
 国内站点： https://share.mosha.cloud/list    (主站如果加载慢，卡顿等情况下可以使用这个））
-
+<br>
 
 上述两个网站效果一样的，例如需要打开数学建模的插件，主站点是：
 https://hello.zhangsan.shop/g/g-fwQfcaTKA-shu-xue-jian-mo-bi-sai-bian-cheng-zhu-shou
+<br>
 国内站点则如下，只需要替换后缀即可：
 https://share.mosha.cloud/g/g-fwQfcaTKA-shu-xue-jian-mo-bi-sai-bian-cheng-zhu-shou
 
