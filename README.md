@@ -239,6 +239,11 @@ C++助手地址：https://hello.zhangsan.shop/g/g-Bgk8s1qOs-c
 地址：https://hello.zhangsan.shop/g/g-iedyANQtM-r-and-r-studio-tutor
 ![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/d439d628-7cd2-488d-b82a-1c6f9d0b2840)
 
+### 董宇辉小作文 
+辅助你更好的写文案，地址：https://share.mosha.cloud/g/g-CRzWQQyAD-dong-yu-hui-xiao-zuo-wen
+
+![4c5da7fe17fbf9d15d32310e2582c947](https://github.com/sfvsfv/chatgpt-share/assets/62045791/9d0e7ccc-9036-42f7-96be-7ed57c79dfba)
+
 
 ### 论文助手（改写 润色 降重）
 地址：https://hello.zhangsan.shop/g/g-wkzpyfRp2-lun-wen-zhu-shou
