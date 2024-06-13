@@ -291,6 +291,10 @@ Scholar GPT，地址：https://hello.zhangsan.shop/g/g-kZ0eYXlJe-scholar-gpt
 
 <img width="981" alt="image" src="https://github.com/sfvsfv/chatgpt-share/assets/62045791/fa2e452f-8c68-44c6-a9cc-7f747ecbf85d">
 
+### suno音乐歌词创作助手
+地址：https://share.mosha.cloud/g/g-x1bw1EXc4-sunoyin-le-ge-ci-chuang-zuo-zhu-shou
+
+
 
 ### 甜甜女友：
 使用地址：
