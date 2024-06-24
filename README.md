@@ -302,6 +302,13 @@ https://chatgpt.com/g/g-Ib3idOvWp-tian-tian-nu-you
 
 <img width="1295" alt="image" src="https://github.com/sfvsfv/chatgpt-share/assets/62045791/3c91735b-f220-466b-814e-399bc705c0da">
 
+### 降低AI率工具
+地址：https://share.mosha.cloud/g/g-3w6Exl9u7-ai-to-human-text-converter
+<img width="1250" alt="image" src="https://github.com/sfvsfv/chatgpt-share/assets/62045791/4d3b6f0e-24bc-474b-bef9-c4e6a8aba991">
+
+
+
+
 ### 更多GPTS
 你可以根据自己需求，在这里搜索相关的关键词即可：https://hello.zhangsan.shop/gpts
 ![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/96f754f2-5dbf-4d8c-bd74-c84001977c84)
