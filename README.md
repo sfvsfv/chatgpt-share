@@ -21,9 +21,8 @@ https://share.mosha.cloud/g/g-fwQfcaTKA-shu-xue-jian-mo-bi-sai-bian-cheng-zhu-sh
 <img width="1618" alt="image" src="https://github.com/sfvsfv/chatgpt-share/assets/62045791/7af26bb8-7791-4024-91c7-255ad4de6a8b">
 
 
-售后QQ群：
+售后/售前交流QQ群：976627025
 
-<img width="308" alt="image" src="https://github.com/sfvsfv/chatgpt-share/assets/62045791/62fad830-27e5-43e0-bcc6-326b92af0ef7">
 
 ## 视频教学,每周更新
 见b站：https://space.bilibili.com/591228087
@@ -402,7 +401,7 @@ GPT帮你完成了对应的文本内容，你依然需要人为的去检查和�
 这是6群，如果你已经加了另外的群，无需重复加入。代理/网站搭建等服务，请联系群主。
 
 
-qq7群：953199214 
+qq8群：976627025
                    
 
 站点：https://share.mosha.cloud/list
