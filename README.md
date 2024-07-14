@@ -306,6 +306,13 @@ https://chatgpt.com/g/g-Ib3idOvWp-tian-tian-nu-you
 <img width="1250" alt="image" src="https://github.com/sfvsfv/chatgpt-share/assets/62045791/4d3b6f0e-24bc-474b-bef9-c4e6a8aba991">
 
 
+##  PDF阅读工具
+
+地址：https://share.mosha.cloud/g/g-QSh6KHL3S-pdf-reader
+
+![QQ_1720971779625](https://github.com/user-attachments/assets/68ab0fec-d482-4923-a8d5-97125ade57c9)
+
+
 
 
 ### 更多GPTS
@@ -401,7 +408,7 @@ GPT帮你完成了对应的文本内容，你依然需要人为的去检查和�
 这是6群，如果你已经加了另外的群，无需重复加入。代理/网站搭建等服务，请联系群主。
 
 
-qq8群：976627025
+qq9群：705213953
                    
 
 站点：https://share.mosha.cloud/list
