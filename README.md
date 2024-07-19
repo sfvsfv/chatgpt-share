@@ -18,7 +18,8 @@ https://share.mosha.cloud/g/g-fwQfcaTKA-shu-xue-jian-mo-bi-sai-bian-cheng-zhu-sh
 ![image](https://github.com/sfvsfv/gpt-share/assets/62045791/4bb5440d-51cb-4f90-a63a-fff847b0abac)
 
 选择plus账号进入，输入授权码，如下所示：
-<img width="1618" alt="image" src="https://github.com/sfvsfv/chatgpt-share/assets/62045791/7af26bb8-7791-4024-91c7-255ad4de6a8b">
+
+![image](https://github.com/user-attachments/assets/7196a364-2493-4867-b8ea-9b331c8085de)
 
 
 售后/售前交流QQ群：976627025
