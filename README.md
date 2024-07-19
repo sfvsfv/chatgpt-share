@@ -174,11 +174,6 @@ windows桌面版：
 
 ![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/0eda5b93-2d1f-4c9c-a98c-b5beacbca48a)
 
-### PDF阅读工具
-地址：https://share.mosha.cloud/g/g-V2KIUZSj0-pdf-ai-pdf
-<img width="1271" alt="image" src="https://github.com/sfvsfv/chatgpt-share/assets/62045791/7e5fdca5-f28c-43cc-a0b1-ee5845597cd7">
-
-
 
 ### 联网搜索
 地址：https://hello.zhangsan.shop/g/g-pNWGgUYqS-webpilot
@@ -271,10 +266,6 @@ Scholar Pro，地址：https://share.mosha.cloud/g/g-Zhdh0y9eI-scholar-pro
 ![image](https://github.com/user-attachments/assets/f2cb22b7-6b3b-4c63-92de-29b7bfa64f44)
 
 
-### PDF学术分析（AskYourPDF）
-地址：https://hello.zhangsan.shop/g/g-UfFxTDMxq-askyourpdf-research-assistant
-![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/9fbb66b4-e579-42bb-bd3e-54abc3f0d576)
-
 
 ### 大学的数学问题求解
 地址：https://hello.zhangsan.shop/g/g-odWlfAKWM-math
@@ -306,12 +297,17 @@ Scholar Pro，地址：https://share.mosha.cloud/g/g-Zhdh0y9eI-scholar-pro
 <img width="1250" alt="image" src="https://github.com/sfvsfv/chatgpt-share/assets/62045791/4d3b6f0e-24bc-474b-bef9-c4e6a8aba991">
 
 
-##  PDF阅读工具
+##  PDF阅读，读文献（研究生常用）
 
-地址：https://share.mosha.cloud/g/g-QSh6KHL3S-pdf-reader
+（推荐）地址：https://share.mosha.cloud/g/g-QSh6KHL3S-pdf-reader
 
 ![QQ_1720971779625](https://github.com/user-attachments/assets/68ab0fec-d482-4923-a8d5-97125ade57c9)
 
+
+
+地址：https://share.mosha.cloud/g/g-dZyKGS17d-pdf-ai
+
+![image](https://github.com/user-attachments/assets/a0fb9ae1-5d19-479b-a36e-28cc16814e0b)
 
 
 
