@@ -261,9 +261,12 @@ C++助手地址：https://hello.zhangsan.shop/g/g-Bgk8s1qOs-c
 文献综述
 地址：https://hello.zhangsan.shop/g/g-DfjUtk6PI-wen-xian-zong-shu-zhi-wang
 
-### 文献搜索（Scholar AI，Scholar GPT）
+### 文献搜索（Scholar Pro）
 
-Scholar GPT，地址：https://hello.zhangsan.shop/g/g-kZ0eYXlJe-scholar-gpt
+Scholar Pro，地址：https://share.mosha.cloud/g/g-Zhdh0y9eI-scholar-pro
+
+![image](https://github.com/user-attachments/assets/f2cb22b7-6b3b-4c63-92de-29b7bfa64f44)
+
 
 ### PDF学术分析（AskYourPDF）
 地址：https://hello.zhangsan.shop/g/g-UfFxTDMxq-askyourpdf-research-assistant
@@ -294,12 +297,6 @@ Scholar GPT，地址：https://hello.zhangsan.shop/g/g-kZ0eYXlJe-scholar-gpt
 地址：https://share.mosha.cloud/g/g-x1bw1EXc4-sunoyin-le-ge-ci-chuang-zuo-zhu-shou
 
 
-
-### 甜甜女友：
-使用地址：
-https://chatgpt.com/g/g-Ib3idOvWp-tian-tian-nu-you
-
-<img width="1295" alt="image" src="https://github.com/sfvsfv/chatgpt-share/assets/62045791/3c91735b-f220-466b-814e-399bc705c0da">
 
 ### 降低AI率工具
 地址：https://share.mosha.cloud/g/g-3w6Exl9u7-ai-to-human-text-converter
