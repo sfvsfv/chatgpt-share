@@ -14,8 +14,10 @@ https://share.mosha.cloud/g/g-fwQfcaTKA-shu-xue-jian-mo-bi-sai-bian-cheng-zhu-sh
 店铺地址：https://test.chuanchuan.cloud  （江苏福建地区打不开，需要魔法）
 
 
+![image](https://github.com/user-attachments/assets/06b7072f-ea89-44f0-b71c-4c86913890ca)
 
-![image](https://github.com/sfvsfv/gpt-share/assets/62045791/4bb5440d-51cb-4f90-a63a-fff847b0abac)
+
+
 
 选择plus账号进入，输入授权码，如下所示：
 
