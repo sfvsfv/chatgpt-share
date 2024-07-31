@@ -194,6 +194,13 @@ windows桌面版：
 
 ![5cd32730f3e14a6f18df93ff7b1f7538](https://github.com/sfvsfv/chatgpt-share/assets/62045791/dfdd8fc7-05fd-4fc8-8563-6dbe6052db8b)
 
+### 数学建模比赛论文助手2.0
+
+地址：https://share.mosha.cloud/g/g-S1Y5HLR9k-shu-xue-jian-mo-bi-sai-lun-wen-zhu-shou-2-0
+
+
+
+
 ### Python助手
 专业的PythonGPTS工具，地址：https://hello.zhangsan.shop/g/g-cKXjWStaE-python
 
