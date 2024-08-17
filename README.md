@@ -77,12 +77,13 @@ windows桌面版：
 
 使用前需要了解的：
 打开网站或者安装包，界面如下：
-![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/139d653d-6b8a-4d6c-a0ce-7e63f9aa6e27)
+![QQ_1723868949197](https://github.com/user-attachments/assets/49da4a9c-2718-4114-ae83-7e31b52dbdcb)
+
 
 部分标志说明如下：
-1.绿色的3.5标志为普通3.5账号
+1.绿色的mini标志为普通3.5账号,可以使用GPT4O-MINI模型，但没有文件上传/GPTS/联网功能。（GPT4O-mini授权码）
 
-2.蓝色的“Plus"标志为4.0账号
+2.紫色的“Plus"标志为4.0账号，支持数据分析文件上传/GPTS/联网等功能。（需要GPT4.0/4O授权码）
 
 没有个账号都有对应的状态，分别为”空闲“，”繁忙“，”停运“，”翻车",其中主要看到的为：”空闲“，”繁忙“，”停运“这三个状态，具体说明如下：
 
