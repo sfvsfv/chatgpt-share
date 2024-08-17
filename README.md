@@ -92,6 +92,16 @@ windows桌面版：
 ![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/40d8c86b-f4a2-4446-be84-90e48fce6933)
 
 
+## 常见问题
+
+1）GPT-4无次数。解决办法：换入口，新建对话。如果需要继续原来的对方，按如需方式下载对话文件上传到新对话框即可继续对话。
+![e71435f10e0529c6a759a09688de9c9d](https://github.com/user-attachments/assets/6e04658e-c6d8-4570-b8c5-ef1688ee2cbb)
+
+2）GPT4 文件上传失败。解决办法：新建对话上传。如果上传依然报错如下截图所示，请切换手机热点尝试；如果手机热点依然上传失败，只能开梯子；如果没有梯子，翻阅到本文最下方的梯子推荐，看教程自己安装即可。
+![8be53f1e8d1b34425b1df43e4d663f9e](https://github.com/user-attachments/assets/a3b13874-6e75-4b2c-9b0a-acf746b713df)
+
+3）如果依然无法解决问题，请联系客服微信处理，微信：hxgsrubxjogxeeag
+
 ### 开始使用
 选择对应状态的入口进入，界面如下：
 ![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/65a33c4b-b6f9-4972-84c0-9cc9f75ac7da)
