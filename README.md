@@ -2,7 +2,9 @@
 
 国外主站点：https://hello.zhangsan.shop/list
 
-国内站点： https://share.mosha.cloud/list    (主站如果加载慢，卡顿等情况下可以使用这个））
+国内站点： https://share.mosha.cloud/list    
+
+上述网站哪个能打开就用哪个(泉州地区除外）
 <br>
 
 上述两个网站效果一样的，例如需要打开数学建模的插件，主站点是：
