@@ -103,6 +103,21 @@ windows桌面版：
 
 3）如果依然无法解决问题，请联系客服微信处理，微信：hxgsrubxjogxeeag
 
+## 梯子推荐解决无法访问网站，无法上传文件问题
+地址：https://xn--9kq250ga.cc
+
+推荐原因：个别地区无法正常访问网站，或者无法正常上传文件。需要开梯子才能正常访问。
+
+<img width="643" alt="image" src="https://github.com/user-attachments/assets/23b1be4a-afbe-40fe-9922-56353fa88449">
+
+
+<img width="764" alt="image" src="https://github.com/user-attachments/assets/8e8f9f63-f5a2-4d56-be5a-0e116026f0ab">
+
+
+如何安装梯子：打开上述地址，有对应入口和配置教程，看着来就行。价格很便宜，性价比挺高的，个人在使用。当然如果你有其他梯子就不要买了哈。
+
+
+
 ## 开始使用
 选择对应状态的入口进入，界面如下：
 ![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/65a33c4b-b6f9-4972-84c0-9cc9f75ac7da)
@@ -437,19 +452,6 @@ GPT帮你完成了对应的文本内容，你依然需要人为的去检查和�
 ## 原创声明
 本教程仅用于个人用途，教程中相关提示词和网站为个人原创，如需商业用途，请标明来源。盗版抄袭可耻。
 
-
-## 梯子推荐解决无法访问网站，无法上传文件问题
-地址：https://xn--9kq250ga.cc
-
-推荐原因：个别地区无法正常访问网站，或者无法正常上传文件。需要开梯子才能正常访问。
-
-<img width="643" alt="image" src="https://github.com/user-attachments/assets/23b1be4a-afbe-40fe-9922-56353fa88449">
-
-
-<img width="764" alt="image" src="https://github.com/user-attachments/assets/8e8f9f63-f5a2-4d56-be5a-0e116026f0ab">
-
-
-如何安装梯子：打开上述地址，有对应入口和配置教程，看着来就行。价格很便宜，性价比挺高的，个人在使用。当然如果你有其他梯子就不要买了哈。
 
 
 ### 最新售后群
