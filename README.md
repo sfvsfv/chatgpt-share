@@ -1,10 +1,12 @@
 # ChatGPT提示词技巧，使用教程，国内版官网直达，非套壳
 
-站点1：https://hello.zhangsan.shop/list
+使用谷歌浏览器。以下三个网站，哪个能正常打开就用哪个：
+https://hello.zhangsan.shop
+https://share.mosha.cloud
+https://www.chatgpt-4.cloud
 
-站点2： https://share.mosha.cloud/list    
+如果网站依然打不开，请联系微信处理：hxgsrubxjogxeeag
 
-上述网站哪个能打开就用哪个(泉州地区除外）
 <br>
 
 上述两个网站效果一样的，例如需要打开数学建模的插件，主站点是：
