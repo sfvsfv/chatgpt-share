@@ -8,7 +8,7 @@ https://share.mosha.cloud
 <br>
 https://www.chatgpt-4.cloud
 
-如果网站依然打不开，请联系微信处理：hxgsrubxjogxeeag
+如果网站依然打不开，请联系微信处理：hxgsrubxjogxeeag  需要数学建模助攻服务，论文转化发表服务，均可以联系微信。
 
 <br>
 
