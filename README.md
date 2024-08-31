@@ -208,6 +208,11 @@ windows桌面版：
 ![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/0eda5b93-2d1f-4c9c-a98c-b5beacbca48a)
 
 
+地址：https://share.mosha.cloud/g/g-vI2kaiM9N-whimsical-diagrams
+![image](https://github.com/user-attachments/assets/f7b4a71e-7cce-49db-b3f9-3d6bd14ec572)
+
+
+
 ### 联网搜索
 地址：https://hello.zhangsan.shop/g/g-pNWGgUYqS-webpilot
 ![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/f22f776f-b069-4a18-b33c-667ed1b04d42)
