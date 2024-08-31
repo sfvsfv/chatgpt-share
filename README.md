@@ -1,8 +1,11 @@
 # ChatGPT提示词技巧，使用教程，国内版官网直达，非套壳
 
 使用谷歌浏览器。以下三个网站，哪个能正常打开就用哪个：
+<br>
 https://hello.zhangsan.shop
+<br>
 https://share.mosha.cloud
+<br>
 https://www.chatgpt-4.cloud
 
 如果网站依然打不开，请联系微信处理：hxgsrubxjogxeeag
