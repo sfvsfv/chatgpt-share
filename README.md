@@ -245,6 +245,13 @@ windows桌面版：
 ![QQ_1723868196085](https://github.com/user-attachments/assets/1df4df2d-7819-47b3-80e3-ea422329de83)
 
 
+### Scholar AI  文献查找
+
+地址：[Scholar AI](https://hello.zhangsan.shop/g/g-8Hpsk6WE2-scholar-ai-gpt-mixerbox-scholar)
+
+例如：
+![image](https://github.com/user-attachments/assets/a4399d49-8480-432b-be8f-952a6a48b23b)
+
 
 ### Python助手
 专业的PythonGPTS工具，地址：https://hello.zhangsan.shop/g/g-cKXjWStaE-python
