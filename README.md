@@ -1,36 +1,17 @@
 # ChatGPT提示词技巧，使用教程，国内版官网直达，非套壳
 
-使用谷歌浏览器。以下网站，哪个能正常打开就用哪个：
-<br>
+使用谷歌浏览器。网站地址（哪个能打开就用哪个，都一样）：
+https://share.mosha.cloud
 https://hello.zhangsan.shop
-<br>
-https://share.mosha.cloud (这个暂时不能使用）
-
-
-如果网站依然打不开，请联系微信处理：hxgsrubxjogxeeag  需要数学建模助攻服务，论文转化发表服务，均可以联系微信。
-
+https://hello.aiforme.cloud
 <br>
 
-上述两个网站效果一样的，例如需要打开数学建模的插件，主站点是：
-https://hello.zhangsan.shop/g/g-fwQfcaTKA-shu-xue-jian-mo-bi-sai-bian-cheng-zhu-shou
-<br>
-国内站点则如下，只需要替换后缀即可：
-https://share.mosha.cloud/g/g-fwQfcaTKA-shu-xue-jian-mo-bi-sai-bian-cheng-zhu-shou
 
-店铺地址：https://test.chuanchuan.cloud  （江苏福建地区打不开，需要魔法）
-
+店铺地址：https://test.chuanchuan.cloud  （如果打不开就是需要魔法）
 
 ![image](https://github.com/user-attachments/assets/06b7072f-ea89-44f0-b71c-4c86913890ca)
 
 
-
-
-选择plus账号进入，输入授权码，如下所示：
-
-![image](https://github.com/user-attachments/assets/7196a364-2493-4867-b8ea-9b331c8085de)
-
-
-售后/售前交流QQ群：836318838
 
 
 ## 视频教学,每周更新
@@ -79,33 +60,12 @@ windows桌面版：
 ## 初次使用网站
 前提条件：首选使用谷歌浏览器 。如果没有，可以到官网下载：https://www.chromegw.com/
 
-使用前需要了解的：
-打开网站或者安装包，界面如下：
-![QQ_1723868949197](https://github.com/user-attachments/assets/49da4a9c-2718-4114-ae83-7e31b52dbdcb)
+基础篇
+入口界面：输入购买的授权码即可，进入后自动分配一个账号，不需要原来那样去换号。
 
+特别的：对于购买mini授权码的用户，需要选择GPT4O-mini模型才能使用，其它模型无法使用。
+[图片]
 
-部分标志说明如下：
-1.绿色的mini标志为普通3.5账号,可以使用GPT4O-MINI模型，但没有文件上传/GPTS/联网功能。（GPT4O-mini授权码）
-
-2.紫色的“Plus"标志为4.0账号，支持数据分析文件上传/GPTS/联网等功能。（需要GPT4.0/4O授权码）
-
-没有个账号都有对应的状态，分别为”空闲“，”繁忙“，”停运“，”翻车",其中主要看到的为：”空闲“，”繁忙“，”停运“这三个状态，具体说明如下：
-
-●空闲：表示该账号完全没有被使用，所以如果有空闲状态的入口，请首选空闲的进入。
-
-●停运：表示该账户已达到频率限制顶峰，需要等到达对应时间后才能被使用，请不要选择该状态账户使用。
-![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/40d8c86b-f4a2-4446-be84-90e48fce6933)
-
-
-## 常见问题
-
-1）GPT-4无次数。解决办法：换入口，新建对话。如果需要继续原来的对方，按如需方式下载对话文件上传到新对话框即可继续对话。
-![e71435f10e0529c6a759a09688de9c9d](https://github.com/user-attachments/assets/6e04658e-c6d8-4570-b8c5-ef1688ee2cbb)
-
-2）GPT4 文件上传失败。首先确保不要使用校园网，目前发现使用校园网的基本无法打开网站或则文件上传。解决办法：新建对话上传。如果上传依然报错如下截图所示，请切换手机热点尝试；如果手机热点依然上传失败，只能开梯子；如果没有梯子，翻阅到本文最下方的梯子推荐，看教程自己安装即可。
-![8be53f1e8d1b34425b1df43e4d663f9e](https://github.com/user-attachments/assets/a3b13874-6e75-4b2c-9b0a-acf746b713df)
-
-3）如果依然无法解决问题，请联系客服微信处理，微信：hxgsrubxjogxeeag
 
 ## 梯子推荐解决无法访问网站，无法上传文件问题
 地址：https://xn--9kq250ga.cc
@@ -120,30 +80,6 @@ windows桌面版：
 
 如何安装梯子：打开上述地址，有对应入口和配置教程，看着来就行。价格很便宜，性价比挺高的，个人在使用。当然如果你有其他梯子就不要买了哈。
 
-
-
-## 开始使用
-选择对应状态的入口进入，界面如下：
-![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/65a33c4b-b6f9-4972-84c0-9cc9f75ac7da)
-
-其中UserToken需要填写你的授权码，直接复制购买到的授权码即可。如果你没有授权码，需要到店铺下单对应时长的授权码,店铺网址为：https://test.chuanchuan.cloud/  购买成功后会自动查看到授权码，请注意保存。如果店铺打不开，请联系客服微信购买，微信：hxgsrubxjogxeeag ，或者打开梯子访问。
-
-正确输入授权码后，界面如下，可以看我我们是完全和官网同步的，没有任何的缺陷：
-![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/b7042766-05a1-4475-aeb4-350e8747563b)
-
-在左上侧，可以选择你需要使用的模型：
-![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/5c0288bf-1b0b-444c-a6a5-83547044700f)
-
-其中GPT-4的频率限制为24小时300次提问频率，注意是频率，不是总共只能用300次。。
-
-
-这里是对话框，需要问什么，可以在这里进行提问：
-![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/179821d9-bd67-468d-843a-ec54d53dfbd1)
-
-
-
-例如：
-![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/2a13ee07-9e63-4784-b7e7-55def49f51d6)
 
 
 ## 进阶一：数据分析
