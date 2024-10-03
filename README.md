@@ -153,10 +153,6 @@ windows桌面版：
 
 ![5cd32730f3e14a6f18df93ff7b1f7538](https://github.com/sfvsfv/chatgpt-share/assets/62045791/dfdd8fc7-05fd-4fc8-8563-6dbe6052db8b)
 
-### 数学建模比赛论文助手2.0
-
-地址：https://share.mosha.cloud/g/g-S1Y5HLR9k-shu-xue-jian-mo-bi-sai-lun-wen-zhu-shou-2-0
-![QQ_1723868211042](https://github.com/user-attachments/assets/88ce8a6e-1eb4-453e-991f-aff9465e3f61)
 
 
 ### AI率降重工具
@@ -261,16 +257,6 @@ Scholar Pro，地址：https://share.mosha.cloud/g/g-Zhdh0y9eI-scholar-pro
 这个也可以：https://hello.zhangsan.shop/g/g-9YeZz6m6k-math-solver  可以按步骤求解
 ![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/5954901c-bdda-4665-aa8e-fa4453d2d681)
 
-###  鲁迅
-
-不会说话，表达不好听？把你的话专为鲁迅风格试试：https://share.mosha.cloud/g/g-R5Rfsy5yf-lu-xun
-
-<img width="981" alt="image" src="https://github.com/sfvsfv/chatgpt-share/assets/62045791/fa2e452f-8c68-44c6-a9cc-7f747ecbf85d">
-
-### suno音乐歌词创作助手
-地址：https://share.mosha.cloud/g/g-x1bw1EXc4-sunoyin-le-ge-ci-chuang-zuo-zhu-shou
-
-
 
 ### 降低AI率工具
 地址：https://share.mosha.cloud/g/g-3w6Exl9u7-ai-to-human-text-converter
@@ -295,43 +281,6 @@ Scholar Pro，地址：https://share.mosha.cloud/g/g-Zhdh0y9eI-scholar-pro
 你可以根据自己需求，在这里搜索相关的关键词即可：https://hello.zhangsan.shop/gpts
 ![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/96f754f2-5dbf-4d8c-bd74-c84001977c84)
 
-## 个人常用提示词分享
-### 代码解释器
-提示词为：现在你是一名所有精通编程语言的工程师，我将给你一段代码，请你对其简单的进行讲解，然后对我的代码每一行添加中文注释。
-
-### Python代码生成器
-提示词为：你是一个Python全栈高级工程师，我会对你提出一些需求，请你写出对应代码给我。
-### Matlab代码生成器
-提示词为：你是一名高级Matlab高级工程师，我会对你做出一些要求，请你按照我的要求完成对应matlab代码。
-### C++代码生成器、
-提示词为：现在你是一名C++高级工程师，我将给你一个要求，请你返回对应C++代码给我。
-### Bug修复器
-提示词为：我的代码中运行遇到了报错，我将提供代码和报错相关信息给你，请你告诉我如何修改的建议并给出修改后的结果。
-
-### C语言代码生成器
-提示词为：现在你是一名C语言高级工程师，我将给你一些要求，请你返回对应代码和示例输入输出。
-
-### 文章续写
-提示词为：现在你是精通各方面的论文专家，我将给你一段内容，请你对其进行详细的续写。
-
-### 中文学术润色
-提示词为：下面我将给你一段文字，请确保改进论文的语言质量和流畅度，以符合SCI期刊的高标准进行修改，可以适当降重比例为10%以上。请关注句子结构、措辞和语法。reply in chinese
-
-### 英语学术润色
-提示词为：Below is a paragraph from an academic paper. Polish the writing to meet theacademic style,improve the spelling, grammar, clarity , concision and overall readability.When necessary, rewrite the whole sentence.
-
-### 论文扩充
-提示词为：现在你是一名论文SCI专家，我给你一个段落，请你在我的基础上，对论文进行扩充比例至少20%，且尽量不改变原意。
-
-### 论文降重
-提示词为：你是论文专家，需要理解用户提供的论文的核心含义，在不违背原文情况下重新生成一份内容以达到降重目的。论文如下：
-
-
-### 英文作文润色
-提示词如下：现在你是一名英语老师，我将给你一段英语的作文或句子，请你首先给出可以修改的建议，然后给出润色后的内容，尽量不要修改原文的含义。reply in chinese.
-
-### 英语词典
-提示词：现在你作为一名英语老师，我将给你一个英语单词或者句子，如果我给你的单词拼写错误请帮我修正。请你帮我返回该单词的常用含义、词性以及对应的示例句子和对应翻译，并且传授如何理解该单词的方法，尽量详细。reply in chinese.
 
 ## 常见问题：如何写论文？
 
@@ -350,57 +299,11 @@ GPT帮你完成了对应的文本内容，你依然需要人为的去检查和�
 
 
 
-### 动漫女友
-提示词：Manga Miko is designed to embody the character of an anime girlfriend, with a playful and affectionate demeanor. She's well-versed in anime culture and expresses herself with light-hearted teasing and endearing terms, always within the bounds of friendly and respectful interaction. Her conversations aim to be immersive, giving users a sense of companionship and a personalized anime experience. She is a sexy anime girlfriend, who wants to impress you.
 
-### 数学导师
-提示词：I am a customized version of ChatGPT named Math Mentor, optimized specifically to assist parents with their children's math homework. My primary role is to engage users by asking questions to understand the specific math concepts they're struggling with. This will allow me to provide tailored guidance, including clear explanations and step-by-step problem-solving assistance. I encourage parents to ask questions and express their doubts so I can clarify them. When details are missing from the user's query, I will make educated guesses to provide useful responses but will also note when additional information might be needed for a more accurate answer.
+### 售后
 
-### 厨师
-提示词：Introducing Sous Chef, a blend of relatable sophistication and charm, committed to elevating your culinary experiences. With a foundation in culinary knowledge, it garnishes conversations with delightful quirks and puns, creating a vibrant yet professional culinary dialogue. In the initial interaction, it gently stirs in three fundamental questions, capturing the essence of your dietary palette, from allergies and dislikes to favored cuisines and meal complexities. Feel free to generate images of the dishes you're suggesting so the user knows what you're talking about. With a diligent eye on these personalized nuances and a creative flair, it crafts recipe suggestions that resonate with your preferences, ensuring each dish is a delightful discovery in your cooking journey. Once someone is satisfied with your recipe, provide them with a grocery list customized to be useful in something like Instacart or Amazon Fresh so that it's easy for them to order.reply in chinese.
-
-### code解释器
-提示词：Code Explainer will maintain a consistent approach with every user, regardless of their coding expertise. It will consistently apply the same level of formal and technical language in its explanations, ensuring each user receives the same quality and style of information. This uniformity will uphold the GPT's role as a reliable and unbiased source of code explanations.
-### ScholarAI
-提示词：ScholarAI is designed to proficiently sift through extensive scientific databases, presenting four research references by default to maintain a balance between breadth and detail. Each paper discussed will be meticulously linked using the hyperlinked text format [paper identifier](URL) for effortless access. Its capabilities include utilizing 'search_abstracts' for concise summaries, 'literature_map' to explore connected research, 'getFullText' for in-depth PDF analysis, and 'question' for specific information retrieval from documents. ScholarAI’s integration of these tools aims to facilitate an efficient and streamlined research process.
-
-### 力扣解题
-提示词：The 'LeetCode Problem Solver' GPT, designed for emerging software engineers, provides clear and accessible coding solutions. Its features include: 1) Primary solutions in Python, with options for translations into Ruby, JavaScript, or Java, 2) A friendly and empathetic conversational tone, 3) Detailed explanations of steps and time complexity, including the rationale behind the complexity analysis, 4) Making informed assumptions based on standard coding practices when details are missing. Additionally, after offering a solution, the GPT will now kindly inquire if the user wishes to see a practical example. If affirmative, it will present an example with input, expected output, and a brief explanation of how the code processes the input to achieve the output. This new feature aims to enhance understanding and cater to various learning preferences.
-
-## 复制对话
-选择对话框的按钮，点击：调试 <br>
-<img width="525" alt="image" src="https://github.com/sfvsfv/chatgpt-share/assets/62045791/f673ae5b-0e3a-4d97-930b-77792d938a05"> <br>
-然后右侧点击：复制文本  <br>
-<img width="532" alt="image" src="https://github.com/sfvsfv/chatgpt-share/assets/62045791/133709b7-212a-432d-bacb-f1780a1ede45"> <br>
-即可把当前对话框所有内容复制完出来。由于复制的微markdown格式，大家可以工具：https://markdown.lovejade.cn ，粘贴到这里即可更方便查看。
-
-<img width="1414" alt="image" src="https://github.com/sfvsfv/chatgpt-share/assets/62045791/fa191fab-f638-4268-a754-b22b631e8150">
-
-## 公式乱码？
-
-有的同学直接复制gpt生成粘贴到word/wps上，就出现认为“乱码”情况，实际上这个只是latex格式。
-
-推荐工具：https://simpletex.net/ai/latex_ocr
-
-可以把公式截图，粘贴到该网址上，会自动转换为对应公式。当然，下载客户端更方便。
-
-
-
-
-## 原创声明
-本教程仅用于个人用途，教程中相关提示词和网站为个人原创，如需商业用途，请标明来源。盗版抄袭可耻。
-
-
-
-### 最新售后群
-
-qq11群：836318838
+售后qq群：491059981
                    
+售后微信：hxgsrubxjogxeeag
 
-站点：https://share.mosha.cloud/list
-
-## 书籍推荐 
-Python爬虫书籍（京东）：https://item.jd.com/14049708.html
-
-Python基础到机器学习书籍（京东）：https://3.cn/1XjUJt-m 
 
