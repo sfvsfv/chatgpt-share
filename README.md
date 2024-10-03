@@ -60,6 +60,53 @@ GPTs 是什么？一句话概括，GPTs 是一个基于现有知识库，第三�
 ![image](https://github.com/user-attachments/assets/85ecde18-dd46-489a-870b-bf7d3d37b14a)
 在这里，你可以为 GPT 赋能，创建你自己的 GPTs。例如，你可以将相关的文献上传到 知识 中，或者添加一些指令，亦或添加一些 API 调用其他的网站的功能。此属于 高级操作，不在本教程的介绍范围内。
 
+## 高级篇
+### 自定义我的 GPT
+![image](https://github.com/user-attachments/assets/1e0bfcb7-5d92-4fd0-ad80-cff67902d219)
+点击后：
+![image](https://github.com/user-attachments/assets/7bb728a5-5b0b-44d3-a4ff-fbf798d9584e)
+在这里，你可以教 GPT 如何回复你。例如下面的提示：
+![image](https://github.com/user-attachments/assets/6b6e8930-cf09-47f8-8435-de0a8e724e86)
+### 语音对话
+![image](https://github.com/user-attachments/assets/0161d4c2-7cfb-4ada-ba97-f4b3717d6bc4)
+
+点进下载会跳转到 GPT 对话页面，你可以使用麦克风与其交流
+### 分享我的对话
+在侧边栏，点击对话分享即可：
+![image](https://github.com/user-attachments/assets/60920b38-b09a-4d6c-973e-d529da852e7f)
+![image](https://github.com/user-attachments/assets/9f3a9305-07d3-4313-88c3-e0d4548d7edb) <br>
+将得到的链接分享给你的朋友，你的朋友可以直接看到这个对话的内容。
+
+
+### 局部重绘
+![image](https://github.com/user-attachments/assets/98e33128-0757-424d-b1a6-9a89f21c3daa)
+点击这个猫，然后选择工具：
+![image](https://github.com/user-attachments/assets/15bcfd03-9534-467b-ace2-59d969c0de0b)
+例如，我想换一个脸，那么就擦拭脸：
+![image](https://github.com/user-attachments/assets/d58fd91b-f263-4a34-9487-b1cfc98a18b9)
+左侧选择工具，右侧输入内容，然后让 GPT 帮你修改。
+![image](https://github.com/user-attachments/assets/0389bc65-f27b-49c4-8f6a-fca0ed064957)
+### 分析数据
+将带有表格的内容发送给 GPT：
+
+![image](https://github.com/user-attachments/assets/f054b195-ef03-4aa7-8ec4-5c44f20de0e5)
+然后命令 GPT 进行工作：
+![image](https://github.com/user-attachments/assets/952743f7-b31b-476b-9d05-3bcf8803ab54)
+![image](https://github.com/user-attachments/assets/6eb554d2-2bf8-437f-beb0-e4fb966d2bdd)
+![image](https://github.com/user-attachments/assets/f6d2366d-36e3-4353-ae19-bd2f5d9dfc73)
+切换为交互式图标，即可操作图标内容
+### 编程
+![image](https://github.com/user-attachments/assets/c2ccd7c3-d7de-4415-b8f4-2afff1bb837e)
+GPT 可以直接运行 大部分Python 程序，你可以让他直接给出输出结果！
+
+### 文件下载
+你可以让 GPT 发送给你文件，如上面提到的 Python 文件源代码。大部分可以下载，如果不能下载就是官网没返回，自己手动复制代码运行。
+![image](https://github.com/user-attachments/assets/7ee3239f-ed41-4424-b5fe-9e44975dc2bf)
+
+## 无感切换功能：推荐使用GPT-4O
+如果使用4O模型，不需要换号，后台自动换号，无需任何切换，这是最方便的。建议就用4O模型即可，这样可以更方便使用无感功能，完全无需换号的。
+
+有些特殊需求的同学，例如O1模型使用遇到提示后台账号没次数，则需要换号才能使用。如何换号？新建对话即可。
 ## 视频教学,每周更新
 见b站：https://space.bilibili.com/591228087
 
