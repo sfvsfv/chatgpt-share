@@ -17,7 +17,48 @@ windows桌面版：
 
 ![image](https://github.com/user-attachments/assets/0ba025b2-7194-4198-b47e-dd5402dec2a1)
 
+## 基础篇
+入口界面：输入购买的授权码即可，进入后自动分配一个账号，不需要原来那样去换号。
+![image](https://github.com/user-attachments/assets/ee414f8b-49da-47e4-b1a8-ec024c674b2f)
+特别的：对于购买mini授权码的用户，需要选择GPT4O-mini模型才能使用，其它模型无法使用。
+![image](https://github.com/user-attachments/assets/076fbfb2-bcb3-4006-981b-a5782d95a0e4)
 
+### 界面介绍
+![image](https://github.com/user-attachments/assets/8e1b6970-0670-4f84-b4ca-c31de49f91ad)
+### 提问
+![image](https://github.com/user-attachments/assets/09f434ab-4de8-4a25-8dd0-dac2c4a88d05)
+在红框处，输入任意你想要描述的文字即可。可以附带图片、文件等。请注意，视频无法直接解析。
+![image](https://github.com/user-attachments/assets/bcba50f4-af2c-48dd-8678-166f569631ad)
+### 带有目的的提问
+1. 基于 / 命令的模型功能选择
+在聊天框输入 / 命令，即可激发模型功能。（这个功能会自动激发，不需要显式选择，这样是为了更好的让模型理解你的意图）
+![image](https://github.com/user-attachments/assets/d68b8ca2-742f-4902-b0b0-7a7571db3ea2)
+2. 基于 @ 命令的 Agent 选择
+![image](https://github.com/user-attachments/assets/d13b0348-df89-49ad-bcbc-8ff39b771c95)
+例如：
+![image](https://github.com/user-attachments/assets/dc582f84-dcce-4423-9597-b45c0279812e)
+![image](https://github.com/user-attachments/assets/cccbac21-8aef-4166-b73d-22603f35a7d8)
+![image](https://github.com/user-attachments/assets/a4baf3c1-1e29-406f-9e1b-d2d0b8619ca9)
+![image](https://github.com/user-attachments/assets/529a021c-b308-4dea-9e0b-a4aa0b252fb6)
+
+### 针对某一个 Agent 提问
+![image](https://github.com/user-attachments/assets/0d473899-6a92-4b5e-b5e5-6bb57fdf0bfe)
+键入想要的 GPTs 或者在探索中寻找需要的 GPTs
+![image](https://github.com/user-attachments/assets/7468a882-5937-4417-956c-62acb6c2273b)
+### 提问 GPTs
+GPTs 是什么？一句话概括，GPTs 是一个基于现有知识库，第三方网站聚合 API 提供功能的 GPT Agent。
+例如，我们以 SQL Expert 为例，来使用：
+![image](https://github.com/user-attachments/assets/c3f38fa8-f4e8-4c86-aaa1-b0f25b210474)
+点击进入，然后可以看到一个新的对话页面：
+![image](https://github.com/user-attachments/assets/d0adff63-cd7b-47fd-a31d-689b10665662)
+这里 GPT = GPT 4o + SQL Expert 作者提供的知识库，我们直接键入：
+![image](https://github.com/user-attachments/assets/674c99b0-2e55-4f1f-ac6a-88f59ada56b9)
+
+注意：一般来说，普通的 GPT 4o 模型就够用了，这里的 SQL 优化只是举例，一般 T 作者更倾向于直接使用普通模型，而不是使用 GPTs，因为过多的知识库为污染 GPT 本身的知识。除非是特定领域，如古典文学 GPT，数学建模等，我们才建议使用 GPTs
+### 创建 GPTs
+![image](https://github.com/user-attachments/assets/524ee4ce-f9d2-4d7f-82ae-951c4c225772)
+![image](https://github.com/user-attachments/assets/85ecde18-dd46-489a-870b-bf7d3d37b14a)
+在这里，你可以为 GPT 赋能，创建你自己的 GPTs。例如，你可以将相关的文献上传到 知识 中，或者添加一些指令，亦或添加一些 API 调用其他的网站的功能。此属于 高级操作，不在本教程的介绍范围内。
 
 ## 视频教学,每周更新
 见b站：https://space.bilibili.com/591228087
