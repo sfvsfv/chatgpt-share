@@ -8,6 +8,10 @@ https://hello.zhangsan.shop
 https://hello.aiforme.cloud
 <br>
 
+windows桌面版：
+链接：https://pan.baidu.com/s/1tFmVvyM959masboVVQXyWw?pwd=1vh4 
+提取码：1vh4 
+<br>
 
 店铺地址：https://test.chuanchuan.cloud  （如果打不开就是需要魔法）
 
@@ -20,23 +24,13 @@ https://hello.aiforme.cloud
 见b站：https://space.bilibili.com/591228087
 
 
-## 网站敏感词
+## 敏感词检测
 
-所有敏感词见这里：https://github.com/sfvsfv/sensitive_words/blob/main/min_word_processed.txt
-
-网站严格禁止用户涉政，请遵守国家的相关管控。
-
-## Share-ChatGPT官方版使用说明书
-站点网址
-
-主站点：https://hello.zhangsan.shop/list
-
-备用站：https://share.mosha.cloud/list (非必要情况，请不要使用备用站）
+所有敏感词检测：https://limit.mosha.cloud
+![image](https://github.com/user-attachments/assets/2e2ce911-dcdd-4fd9-818b-43d2e26d4adf)
 
 
-windows桌面版：
-链接：https://pan.baidu.com/s/1tFmVvyM959masboVVQXyWw?pwd=1vh4 
-提取码：1vh4 
+
 
 ## 为什么选我们？
 
@@ -58,15 +52,6 @@ windows桌面版：
 我们有专业的技术团队，已经稳定运营一年之久。我们的维护成本很大，基本大家下单的钱都用于账号购买和技术升级，基本没有多少的利润，只为给大家提供一个安全/稳定的GPT服务。如果网站体验好，请帮我们宣传，足够的用户是我们继续做下去的动力。
 
 
-
-## 初次使用网站
-前提条件：首选使用谷歌浏览器 。如果没有，可以到官网下载：https://www.chromegw.com/
-
-基础篇
-入口界面：输入购买的授权码即可，进入后自动分配一个账号，不需要原来那样去换号。
-
-特别的：对于购买mini授权码的用户，需要选择GPT4O-mini模型才能使用，其它模型无法使用。
-[图片]
 
 
 ## 梯子推荐解决无法访问网站，无法上传文件问题
