@@ -19,7 +19,7 @@ windows桌面版：
 
 ## 基础篇
 入口界面：输入购买的授权码即可，进入后自动分配一个账号，不需要原来那样去换号。
-![image](https://github.com/user-attachments/assets/ee414f8b-49da-47e4-b1a8-ec024c674b2f)
+![image](https://github.com/user-attachments/assets/ee414f8b-49da-47e4-b1a8-ec024c674b2f) <br>
 特别的：对于购买mini授权码的用户，需要选择GPT4O-mini模型才能使用，其它模型无法使用。
 ![image](https://github.com/user-attachments/assets/076fbfb2-bcb3-4006-981b-a5782d95a0e4)
 
@@ -43,6 +43,7 @@ windows桌面版：
 
 ### 针对某一个 Agent 提问
 ![image](https://github.com/user-attachments/assets/0d473899-6a92-4b5e-b5e5-6bb57fdf0bfe)
+<br>
 键入想要的 GPTs 或者在探索中寻找需要的 GPTs
 ![image](https://github.com/user-attachments/assets/7468a882-5937-4417-956c-62acb6c2273b)
 ### 提问 GPTs
