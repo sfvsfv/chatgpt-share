@@ -1,8 +1,10 @@
 # ChatGPT提示词技巧，使用教程，国内版官网直达，非套壳
 
-使用谷歌浏览器。网站地址（哪个能打开就用哪个，都一样）：
+使用谷歌浏览器。网站地址（哪个能打开就用哪个，都一样）：<br>
 https://share.mosha.cloud
+<br>
 https://hello.zhangsan.shop
+<br>
 https://hello.aiforme.cloud
 <br>
 
