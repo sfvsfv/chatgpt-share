@@ -15,7 +15,6 @@ windows桌面版：
 
 店铺地址：https://test.chuanchuan.cloud  （如果打不开就是需要魔法）
 
-![image](https://github.com/user-attachments/assets/0ba025b2-7194-4198-b47e-dd5402dec2a1)
 
 ## 基础篇
 入口界面：输入购买的授权码即可，进入后自动分配一个账号，不需要原来那样去换号。
