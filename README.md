@@ -15,8 +15,7 @@ windows桌面版：
 
 店铺地址：https://test.chuanchuan.cloud  （如果打不开就是需要魔法）
 
-![image](https://github.com/user-attachments/assets/06b7072f-ea89-44f0-b71c-4c86913890ca)
-
+![image](https://github.com/user-attachments/assets/0ba025b2-7194-4198-b47e-dd5402dec2a1)
 
 
 
