@@ -234,7 +234,8 @@ GPT 可以直接运行 大部分Python 程序，你可以让他直接给出输�
 ![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/8fed4abb-c9a7-456e-864e-13abfe109b31)
 
 
-地址：[https://hello.zhangsan.shop/g/g-fwQfcaTKA-shu-xue-jian-mo-bi-sai-bian-cheng-zhu-shou](https://hello.zhangsan.shop/g/g-fwQfcaTKA-shu-xue-jian-mo-bi-sai-bian-cheng-zhu-shou)
+地址：https://hello.zhangsan.shop/g/g-SqXqpLMU8-shu-xue-jian-mo-bi-sai-bian-cheng-zhu-shou
+
 
 演示如下：
 ![bbbedac41c5888dd3e1e315fb24a0ac1](https://github.com/sfvsfv/chatgpt-share/assets/62045791/2cac5676-e633-4738-bb64-f37889c07d78)
