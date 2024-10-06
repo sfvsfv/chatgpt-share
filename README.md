@@ -105,6 +105,13 @@ GPT 可以直接运行 大部分Python 程序，你可以让他直接给出输�
 ### 文件下载
 你可以让 GPT 发送给你文件，如上面提到的 Python 文件源代码。大部分可以下载，如果不能下载就是官网没返回，自己手动复制代码运行。
 ![image](https://github.com/user-attachments/assets/7ee3239f-ed41-4424-b5fe-9e44975dc2bf)
+### O1模型的正确使用
+首先用4O模型识别出来：
+![image](https://github.com/user-attachments/assets/88e552c5-ef02-4722-affe-2e4b0cbb9c01)
+点击复制按钮，复制出来，把多余的内容删除，粘贴到O1-mini模型这边：
+![image](https://github.com/user-attachments/assets/d172a3f3-521a-4067-bd75-41ad505e467a)
+
+
 
 ## 无感切换功能：推荐使用GPT-4O
 如果使用4O模型，不需要换号，后台自动换号，无需任何切换，这是最方便的。建议就用4O模型即可，这样可以更方便使用无感功能，完全无需换号的。
