@@ -19,104 +19,14 @@ windows桌面版：
               
 售后微信：hxgsrubxjogxeeag
 
-## 基础篇
-入口界面：输入购买的授权码即可，进入后自动分配一个账号，不需要原来那样去换号。
-![image](https://github.com/user-attachments/assets/ee414f8b-49da-47e4-b1a8-ec024c674b2f) <br>
-特别的：对于购买mini授权码的用户，需要选择GPT4O-mini模型才能使用，其它模型无法使用。
-![image](https://github.com/user-attachments/assets/076fbfb2-bcb3-4006-981b-a5782d95a0e4)
 
-### 界面介绍
-![image](https://github.com/user-attachments/assets/8e1b6970-0670-4f84-b4ca-c31de49f91ad)
-### 提问
-![image](https://github.com/user-attachments/assets/09f434ab-4de8-4a25-8dd0-dac2c4a88d05)
-在红框处，输入任意你想要描述的文字即可。可以附带图片、文件等。请注意，视频无法直接解析。
-![image](https://github.com/user-attachments/assets/bcba50f4-af2c-48dd-8678-166f569631ad)
-### 带有目的的提问
-1. 基于 / 命令的模型功能选择
-在聊天框输入 / 命令，即可激发模型功能。（这个功能会自动激发，不需要显式选择，这样是为了更好的让模型理解你的意图）
-![image](https://github.com/user-attachments/assets/d68b8ca2-742f-4902-b0b0-7a7571db3ea2)
-2. 基于 @ 命令的 Agent 选择
-![image](https://github.com/user-attachments/assets/d13b0348-df89-49ad-bcbc-8ff39b771c95)
-例如：
-![image](https://github.com/user-attachments/assets/dc582f84-dcce-4423-9597-b45c0279812e)
-![image](https://github.com/user-attachments/assets/cccbac21-8aef-4166-b73d-22603f35a7d8)
-![image](https://github.com/user-attachments/assets/a4baf3c1-1e29-406f-9e1b-d2d0b8619ca9)
-![image](https://github.com/user-attachments/assets/529a021c-b308-4dea-9e0b-a4aa0b252fb6)
-
-### 针对某一个 Agent 提问
-![image](https://github.com/user-attachments/assets/0d473899-6a92-4b5e-b5e5-6bb57fdf0bfe)
-<br>
-键入想要的 GPTs 或者在探索中寻找需要的 GPTs
-![image](https://github.com/user-attachments/assets/7468a882-5937-4417-956c-62acb6c2273b)
-### 提问 GPTs
-GPTs 是什么？一句话概括，GPTs 是一个基于现有知识库，第三方网站聚合 API 提供功能的 GPT Agent。
-例如，我们以 SQL Expert 为例，来使用：
-![image](https://github.com/user-attachments/assets/c3f38fa8-f4e8-4c86-aaa1-b0f25b210474)
-点击进入，然后可以看到一个新的对话页面：
-![image](https://github.com/user-attachments/assets/d0adff63-cd7b-47fd-a31d-689b10665662)
-这里 GPT = GPT 4o + SQL Expert 作者提供的知识库，我们直接键入：
-![image](https://github.com/user-attachments/assets/674c99b0-2e55-4f1f-ac6a-88f59ada56b9)
-
-注意：一般来说，普通的 GPT 4o 模型就够用了，这里的 SQL 优化只是举例，一般 T 作者更倾向于直接使用普通模型，而不是使用 GPTs，因为过多的知识库为污染 GPT 本身的知识。除非是特定领域，如古典文学 GPT，数学建模等，我们才建议使用 GPTs
-### 创建 GPTs
-![image](https://github.com/user-attachments/assets/524ee4ce-f9d2-4d7f-82ae-951c4c225772)
-![image](https://github.com/user-attachments/assets/85ecde18-dd46-489a-870b-bf7d3d37b14a)
-在这里，你可以为 GPT 赋能，创建你自己的 GPTs。例如，你可以将相关的文献上传到 知识 中，或者添加一些指令，亦或添加一些 API 调用其他的网站的功能。此属于 高级操作，不在本教程的介绍范围内。
-
-## 高级篇
-### 自定义我的 GPT
-![image](https://github.com/user-attachments/assets/1e0bfcb7-5d92-4fd0-ad80-cff67902d219)
-点击后：
-![image](https://github.com/user-attachments/assets/7bb728a5-5b0b-44d3-a4ff-fbf798d9584e)
-在这里，你可以教 GPT 如何回复你。例如下面的提示：
-![image](https://github.com/user-attachments/assets/6b6e8930-cf09-47f8-8435-de0a8e724e86)
-### 语音对话
-![image](https://github.com/user-attachments/assets/0161d4c2-7cfb-4ada-ba97-f4b3717d6bc4)
-
-点进下载会跳转到 GPT 对话页面，你可以使用麦克风与其交流
-### 分享我的对话
-在侧边栏，点击对话分享即可：
-![image](https://github.com/user-attachments/assets/60920b38-b09a-4d6c-973e-d529da852e7f)
-![image](https://github.com/user-attachments/assets/9f3a9305-07d3-4313-88c3-e0d4548d7edb) <br>
-将得到的链接分享给你的朋友，你的朋友可以直接看到这个对话的内容。
-
-
-### 局部重绘
-![image](https://github.com/user-attachments/assets/98e33128-0757-424d-b1a6-9a89f21c3daa)
-点击这个猫，然后选择工具：
-![image](https://github.com/user-attachments/assets/15bcfd03-9534-467b-ace2-59d969c0de0b)
-例如，我想换一个脸，那么就擦拭脸：
-![image](https://github.com/user-attachments/assets/d58fd91b-f263-4a34-9487-b1cfc98a18b9)
-左侧选择工具，右侧输入内容，然后让 GPT 帮你修改。
-![image](https://github.com/user-attachments/assets/0389bc65-f27b-49c4-8f6a-fca0ed064957)
-### 分析数据
-将带有表格的内容发送给 GPT：
-
-![image](https://github.com/user-attachments/assets/f054b195-ef03-4aa7-8ec4-5c44f20de0e5)
-然后命令 GPT 进行工作：
-![image](https://github.com/user-attachments/assets/952743f7-b31b-476b-9d05-3bcf8803ab54)
-![image](https://github.com/user-attachments/assets/6eb554d2-2bf8-437f-beb0-e4fb966d2bdd)
-![image](https://github.com/user-attachments/assets/f6d2366d-36e3-4353-ae19-bd2f5d9dfc73)
-切换为交互式图标，即可操作图标内容
-### 编程
-![image](https://github.com/user-attachments/assets/c2ccd7c3-d7de-4415-b8f4-2afff1bb837e)
-GPT 可以直接运行 大部分Python 程序，你可以让他直接给出输出结果！
-
-### 文件下载
-你可以让 GPT 发送给你文件，如上面提到的 Python 文件源代码。大部分可以下载，如果不能下载就是官网没返回，自己手动复制代码运行。
-![image](https://github.com/user-attachments/assets/7ee3239f-ed41-4424-b5fe-9e44975dc2bf)
-### O1模型的正确使用
+## O1模型的正确使用
 首先用4O模型识别出来：
 ![image](https://github.com/user-attachments/assets/88e552c5-ef02-4722-affe-2e4b0cbb9c01)
 点击复制按钮，复制出来，把多余的内容删除，粘贴到O1-mini模型这边：
 ![image](https://github.com/user-attachments/assets/d172a3f3-521a-4067-bd75-41ad505e467a)
 
 
-
-## 无感切换功能：推荐使用GPT-4O
-如果使用4O模型，不需要换号，后台自动换号，无需任何切换，这是最方便的。建议就用4O模型即可，这样可以更方便使用无感功能，完全无需换号的。
-
-有些特殊需求的同学，例如O1模型使用遇到提示后台账号没次数，则需要换号才能使用。如何换号？新建对话即可。
 ## 视频教学,每周更新
 见b站：https://space.bilibili.com/591228087
 
