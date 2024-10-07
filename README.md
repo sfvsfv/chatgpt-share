@@ -27,12 +27,6 @@ windows桌面版：
 ![image](https://github.com/user-attachments/assets/9d819e25-f9b6-4ac0-9743-591337fde59f)
 
 
-## O1模型的正确使用
-首先用4O模型识别出来：
-![image](https://github.com/user-attachments/assets/88e552c5-ef02-4722-affe-2e4b0cbb9c01)
-点击复制按钮，复制出来，把多余的内容删除，粘贴到O1-mini模型这边：
-![image](https://github.com/user-attachments/assets/d172a3f3-521a-4067-bd75-41ad505e467a)
-
 
 ## 视频教学,每周更新
 见b站：https://space.bilibili.com/591228087
@@ -111,6 +105,11 @@ windows桌面版：
 
 ![214261d9c76f474bb6069c26b56b21ce](https://github.com/sfvsfv/chatgpt-share/assets/62045791/161543a3-36e2-45ba-89db-8a533f30126c)
 
+###  O1模型的正确使用
+首先用4O模型识别出来：
+![image](https://github.com/user-attachments/assets/88e552c5-ef02-4722-affe-2e4b0cbb9c01)
+点击复制按钮，复制出来，把多余的内容删除，粘贴到O1-mini模型这边：
+![image](https://github.com/user-attachments/assets/d172a3f3-521a-4067-bd75-41ad505e467a)
 
 ## 优秀的GPTS推荐
 为什么需要使用GPTS呢？因为它能更加专业回答你的问题，因此如果你觉得主界面提问回答质量不够理想，可以去选择一个合适的GPTS使用。
