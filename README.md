@@ -19,6 +19,13 @@ windows桌面版：
               
 售后微信：hxgsrubxjogxeeag
 
+## 使用方法
+上述店铺购买授权码，回到网站任选一个空闲的入口：<br>
+![image](https://github.com/user-attachments/assets/b70f0946-15fd-4f67-bee9-15e4b6b378c9)
+<br>
+填写购买得到的授权码即可进入使用：<br>
+![image](https://github.com/user-attachments/assets/9d819e25-f9b6-4ac0-9743-591337fde59f)
+
 
 ## O1模型的正确使用
 首先用4O模型识别出来：
