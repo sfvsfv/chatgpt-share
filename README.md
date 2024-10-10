@@ -296,6 +296,10 @@ Scholar Pro，地址：https://share.mosha.cloud/g/g-Zhdh0y9eI-scholar-pro
 你可以根据自己需求，在这里搜索相关的关键词即可：https://hello.zhangsan.shop/gpts
 ![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/96f754f2-5dbf-4d8c-bd74-c84001977c84)
 
+## 使用中提示GPT4没次数了如何继续对话？
+例如继续对话4O没次数的时候在按钮这里换个4的其它模型就好了哈：
+
+![86f0fdcc9fc1e6a745218644d4f91a89](https://github.com/user-attachments/assets/016dbeb5-833d-4886-8210-289fc6bc0c9d)
 
 ## 常见问题：如何写论文？
 
