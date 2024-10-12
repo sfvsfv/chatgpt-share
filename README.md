@@ -1,13 +1,14 @@
 # ChatGPT使用教程，官网直达，无需魔法非套壳
 
-使用谷歌浏览器。网站地址（哪个能打开就用哪个，都一样）：<br>
+必须使用谷歌浏览器。四个地址分别部署在国内和国外，如果某个访问比较慢可以换下另一个网址。网站地址（哪个好用就用哪个，都一样）：<br>
 https://share.mosha.cloud
 <br>
-https://hello.zhangsan.shop
+https://hello.zhangsan.shop 
 <br>
 https://hello.aiforme.cloud
 <br>
-
+https://share.moshayaoji.site
+<br>
 windows桌面版：
 链接：https://pan.baidu.com/s/1tFmVvyM959masboVVQXyWw?pwd=1vh4 
 提取码：1vh4 
@@ -15,7 +16,7 @@ windows桌面版：
 
 店铺地址：https://test.chuanchuan.cloud  （如果打不开就是需要魔法）
 <br>
-售后qq群：491059981
+售后qq群：791683097
               
 售后微信：hxgsrubxjogxeeag
 
