@@ -9,11 +9,8 @@ https://hello.aiforme.cloud
 <br>
 https://share.moshayaoji.site
 <br>
-windows桌面版：
-链接：https://pan.baidu.com/s/1tFmVvyM959masboVVQXyWw?pwd=1vh4 
-提取码：1vh4 
+https://test.zhangsan.cool
 <br>
-
 店铺地址：https://test.chuanchuan.cloud  （如果打不开就是需要魔法）
 <br>
 售后qq群：791683097
