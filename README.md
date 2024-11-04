@@ -36,7 +36,7 @@ https://share.searchknowledge.cloud
 
 ## 敏感词检测
 
-所有敏感词检测：https://limit.mosha.cloud
+如果提示敏感词，请使用该地址检测：[[https://limit.mosha.cloud](https://limit.zhangsan.cool)](https://limit.zhangsan.cool)
 ![image](https://github.com/user-attachments/assets/2e2ce911-dcdd-4fd9-818b-43d2e26d4adf)
 
 
