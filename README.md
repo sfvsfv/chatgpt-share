@@ -17,7 +17,7 @@ https://share.searchknowledge.cloud
 <br>
 店铺地址：https://test.chuanchuan.cloud  （如果打不开就是需要魔法）
 <br>
-售后qq群：955698071
+售后21群群：955768830
               
 售后微信：hxgsrubxjogxeeag
 
