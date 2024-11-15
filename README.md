@@ -21,10 +21,6 @@ https://share.searchknowledge.cloud
               
 售后微信：hxgsrubxjogxeeag
 
-## 本网站无降智
-降智即4系列模型无法分析文件/无联网/无画图，O1系列模型无思考。
-![3be33f87f4674fd1d9afc4a51d4ab956](https://github.com/user-attachments/assets/6815ad23-4a20-4f9a-88b9-cadcd4ba353a)
-![8654abc84444806f8b13b20671ae44ee](https://github.com/user-attachments/assets/c9555349-715b-45c4-bf89-8a37ba91d032)
 
 ## 使用方法
 上述店铺购买授权码，回到网站任选一个空闲的入口：<br>
@@ -64,8 +60,12 @@ https://share.searchknowledge.cloud
 3）不用担心封号，及时被封号全部有我们自己承担，不会影响你的使用，也不会丢失你的聊天记录。
 
 
-我们有专业的技术团队，已经稳定运营一年之久。我们的维护成本很大，基本大家下单的钱都用于账号购买和技术升级，基本没有多少的利润，只为给大家提供一个安全/稳定的GPT服务。如果网站体验好，请帮我们宣传，足够的用户是我们继续做下去的动力。
+我们有专业的技术团队，已经稳定运营2年之久。我们的维护成本很大，基本大家下单的钱都用于账号购买和技术升级，基本没有多少的利润，只为给大家提供一个安全/稳定的GPT服务。如果网站体验好，请帮我们宣传，足够的用户是我们继续做下去的动力。
 
+## 本网站无降智
+降智即4系列模型无法分析文件/无联网/无画图，O1系列模型无思考。
+![3be33f87f4674fd1d9afc4a51d4ab956](https://github.com/user-attachments/assets/6815ad23-4a20-4f9a-88b9-cadcd4ba353a)
+![8654abc84444806f8b13b20671ae44ee](https://github.com/user-attachments/assets/c9555349-715b-45c4-bf89-8a37ba91d032)
 
 
 
