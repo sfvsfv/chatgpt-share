@@ -21,6 +21,11 @@ https://share.searchknowledge.cloud
               
 售后微信：hxgsrubxjogxeeag
 
+## 本网站无降智
+降智即4系列模型无法分析文件/无联网/无画图，O1系列模型无思考。
+![3be33f87f4674fd1d9afc4a51d4ab956](https://github.com/user-attachments/assets/6815ad23-4a20-4f9a-88b9-cadcd4ba353a)
+![8654abc84444806f8b13b20671ae44ee](https://github.com/user-attachments/assets/c9555349-715b-45c4-bf89-8a37ba91d032)
+
 ## 使用方法
 上述店铺购买授权码，回到网站任选一个空闲的入口：<br>
 ![image](https://github.com/user-attachments/assets/b70f0946-15fd-4f67-bee9-15e4b6b378c9)
