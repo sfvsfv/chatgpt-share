@@ -167,7 +167,7 @@ https://share.searchknowledge.cloud
 ![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/8fed4abb-c9a7-456e-864e-13abfe109b31)
 
 
-地址：https://hello.zhangsan.shop/g/g-SqXqpLMU8-shu-xue-jian-mo-bi-sai-bian-cheng-zhu-shou
+地址：[https://hello.zhangsan.shop/g/g-SqXqpLMU8-shu-xue-jian-mo-bi-sai-bian-cheng-zhu-shou](https://share.mosha.cloud/g/g-6755500e254481919dd017ef7009157b-shu-xue-jian-mo-bi-sai-bian-cheng-zhu-shou)
 
 
 演示如下：
