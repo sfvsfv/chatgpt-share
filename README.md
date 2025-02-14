@@ -90,6 +90,9 @@ https://hello.aiforme.cloud
 如何安装梯子：打开上述地址，有对应入口和配置教程，看着来就行。价格很便宜，性价比挺高的，个人在使用。当然如果你有其他梯子就不要买了哈。
 
 
+注意：必须代理选择全局方能正常使用
+![image](https://github.com/user-attachments/assets/6e96f46f-4762-4f69-a8f0-55dd78d2fb1d)
+
 
 ## 进阶一：数据分析
 文件比较小
