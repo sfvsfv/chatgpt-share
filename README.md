@@ -21,7 +21,7 @@ https://hello.zhangsan.shop
 https://hello.aiforme.cloud
 <br>
 
-店铺地址：https://test.chuanchuan.cloud  （如果打不开就是需要魔法）
+店铺地址：https://test.chuanchuan.cloud  （如果打不开就是需要魔法，或者联系微信购买）
 <br>
 
               
@@ -29,11 +29,13 @@ https://hello.aiforme.cloud
 
 
 ## 使用方法
-上述店铺购买授权码，回到网站任选一个空闲的入口：<br>
-![image](https://github.com/user-attachments/assets/b70f0946-15fd-4f67-bee9-15e4b6b378c9)
+上述店铺购买授权码，回到网站：<br>
+![image](https://github.com/user-attachments/assets/7c158e09-e0e5-4c8f-bdf4-2395645eda4e)
+
 <br>
 填写购买得到的授权码即可进入使用：<br>
-![image](https://github.com/user-attachments/assets/9d819e25-f9b6-4ac0-9743-591337fde59f)
+![image](https://github.com/user-attachments/assets/a048f026-6150-404c-94f4-66ee4f18a5d8)
+
 
 
 
