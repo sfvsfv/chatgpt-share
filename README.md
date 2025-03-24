@@ -21,6 +21,9 @@ https://hello.zhangsan.shop
 https://hello.aiforme.cloud
 <br>
 
+
+免费使用Grok镜像站：https://www.grok-3.cloud
+
 店铺地址：https://test.chuanchuan.cloud  （如果打不开就是需要魔法，或者联系微信购买）
 <br>
 
