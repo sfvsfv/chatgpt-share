@@ -34,7 +34,7 @@ https://hello.gptniubi.online <br>
 ## 使用方法
 上述店铺购买授权码（注意保存出来），回到网站：
 <br>
-![image](https://github.com/user-attachments/assets/17fed5de-4e9b-40b4-bfbc-b58fc574189f)
+![image](https://github.com/user-attachments/assets/c2da32ca-37c6-4dc9-aaea-ef325bc4d91c)
 
 <br>
 填写购买得到的授权码即可进入使用，支持模型和大致介绍：<br>
