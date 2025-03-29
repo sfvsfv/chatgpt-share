@@ -16,7 +16,7 @@ https://share.searchknowledge.cloud
 <br>
 https://share.mosha.cloud
 <br>
-https://hello.zhangsan.shop 
+https://test.zhangsan.cool 
 <br>
 
 
@@ -55,21 +55,19 @@ https://hello.zhangsan.shop
 
 ## 为什么选我们？
 
+为什么选我们？
 1）使用官网需要翻q，大部分学校/企业发现此类行为会被处以重罚，甚至开除！
-
 2）使用官网需要20美元一个月，买下来至少160人民币，对于学生群体来说偏贵！
-
 3）使用官网需要有visa卡，大部分人美元美国visa卡。到淘宝购买虚拟卡，大部分卡不正规，导致频繁封号，钱没了，账号也没了，只能认栽。淘宝店主会说是你自身IP不干净造成，只能吃哑巴亏！
-4）做数学建模/毕业设计/发论文 这种涉及查重率和AI率的一定要用GPT/claude/germin这种国外模型，可很大程度降低查重率和AI率（这一点不能完全避免，只是相对更低）。不涉及这种情况的例如写个报告/XX文案/小作业，可以使用国产模型，毕竟在中文表达方面国产应该会更本土化。
+4）做数学建模/毕业设计这种一定要用GPT/claude这种国外模型，因为你用国产的模型会把你的数据贡献给国内，严重加大查重率和AI率。
+5）deepseek官网经常不稳定，选择我们独家供应的算力更加稳定高效。
+6）与同行相比，我们提供的GPT/gemini/deepseek系列均比官网稳定，算力更充足，有专门的技术维护。相比其他同行每次故障都要几个小时甚至一两天才恢复，我们最多半个小时。
 
 
 我们站点的优势：
-
 1）无需翻q即可进入官网，后台账号全部有我们购买。价格比官网低一半多。
-
 2）聊天记录不会被丢失，将会跟随你的授权码进入任何一个账号；聊天记录是唯一的，并不会被让他人看见，保障隐私。
-
-3）不用担心封号，及时被封号全部有我们自己承担，不会影响你的使用，也不会丢失你的聊天记录。
+3）不用担心封号，即使被封号全部由我们自己承担，不会影响你的使用，也不会丢失你的聊天记录。我们有专业的技术团队，已经稳定运营2年之久。我们的维护成本很大，基本大家下单的钱都用于账号购买和技术升级，基本没有多少的利润，只为给大家提供一个安全/稳定的GPT服务。如果网站体验好，请帮我们宣传，足够的用户是我们继续做下去的动力。
 
 
 我们有专业的技术团队，已经稳定运营2年之久。我们的维护成本很大，基本大家下单的钱都用于账号购买和技术升级，基本没有多少的利润，只为给大家提供一个安全/稳定的GPT服务。如果网站体验好，请帮我们宣传，足够的用户是我们继续做下去的动力。
@@ -127,11 +125,7 @@ https://hello.zhangsan.shop
 
 ![214261d9c76f474bb6069c26b56b21ce](https://github.com/sfvsfv/chatgpt-share/assets/62045791/161543a3-36e2-45ba-89db-8a533f30126c)
 
-###  O1模型的正确使用
-首先用4O模型识别出来：
-![image](https://github.com/user-attachments/assets/88e552c5-ef02-4722-affe-2e4b0cbb9c01)
-点击复制按钮，复制出来，把多余的内容删除，粘贴到O1-mini模型这边：
-![image](https://github.com/user-attachments/assets/d172a3f3-521a-4067-bd75-41ad505e467a)
+
 
 ## 优秀的GPTS推荐
 为什么需要使用GPTS呢？因为它能更加专业回答你的问题，因此如果你觉得主界面提问回答质量不够理想，可以去选择一个合适的GPTS使用。
@@ -150,7 +144,7 @@ https://hello.zhangsan.shop
 
 ![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/3a3fc84a-159c-43a3-ba15-50b3d80bb49a)
 
-地址：https://hello.zhangsan.shop/g/g-HMNcP6w7d-data-analyst
+地址：https://test.zhangsan.cool/g/g-HMNcP6w7d-data-analyst
 ![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/09a162e2-8f78-4020-8188-d00974829e7c)
 
 
@@ -160,7 +154,7 @@ https://hello.zhangsan.shop
 
 
 ### 各种图表/流程图/序列图/思维导图
-地址：https://hello.zhangsan.shop/g/g-5QhhdsfDj-diagrams-show-me
+地址：https://test.zhangsan.cool/g/g-5QhhdsfDj-diagrams-show-me
 
 ![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/0eda5b93-2d1f-4c9c-a98c-b5beacbca48a)
 
@@ -171,10 +165,10 @@ https://hello.zhangsan.shop
 
 
 ### 联网搜索
-地址：https://hello.zhangsan.shop/g/g-pNWGgUYqS-webpilot
+地址：https://test.zhangsan.cool/g/g-pNWGgUYqS-webpilot
 ![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/f22f776f-b069-4a18-b33c-667ed1b04d42)
 
-当然，主界面（https://hello.zhangsan.shop/）提问也是自带联网，但是提问的时候请加”联网“两个字：
+当然，主界面（https://test.zhangsan.cool/）提问也是自带联网，但是提问的时候请加”联网“两个字：
 ![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/21696a35-158f-4ba9-bacd-519410aec85f)
 
 ### 数学建模编程专属助手
@@ -182,7 +176,7 @@ https://hello.zhangsan.shop
 ![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/8fed4abb-c9a7-456e-864e-13abfe109b31)
 
 
-地址：[https://hello.zhangsan.shop/g/g-SqXqpLMU8-shu-xue-jian-mo-bi-sai-bian-cheng-zhu-shou](https://share.moshayaoji.site/g/g-6755500e254481919dd017ef7009157b-shu-xue-jian-mo-bi-sai-bian-cheng-zhu-shou)
+地址：[https://test.zhangsan.cool/g/g-SqXqpLMU8-shu-xue-jian-mo-bi-sai-bian-cheng-zhu-shou](https://share.moshayaoji.site/g/g-6755500e254481919dd017ef7009157b-shu-xue-jian-mo-bi-sai-bian-cheng-zhu-shou)
 
 
 演示如下：
@@ -201,14 +195,14 @@ https://hello.zhangsan.shop
 
 ### Scholar AI  文献查找
 
-地址：[Scholar AI](https://hello.zhangsan.shop/g/g-8Hpsk6WE2-scholar-ai-gpt-mixerbox-scholar)
+地址：[Scholar AI](https://test.zhangsan.cool/g/g-8Hpsk6WE2-scholar-ai-gpt-mixerbox-scholar)
 
 例如：
 ![image](https://github.com/user-attachments/assets/a4399d49-8480-432b-be8f-952a6a48b23b)
 
 
 ### Python助手
-专业的PythonGPTS工具，地址：https://hello.zhangsan.shop/g/g-cKXjWStaE-python
+专业的PythonGPTS工具，地址：https://test.zhangsan.cool/g/g-cKXjWStaE-python
 
 例如：
 ![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/09891e20-65f2-4e0d-8d88-dded2abe462d)
@@ -216,37 +210,37 @@ https://hello.zhangsan.shop
 
 
 ### 万能代码助手（Copilot）
-地址：https://hello.zhangsan.shop/g/g-2DQzU5UZl-code-copilot
+地址：https://test.zhangsan.cool/g/g-2DQzU5UZl-code-copilot
 
 例如：
 ![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/993205bf-e046-4993-92df-2c4577e1576f)
 
 
 ### SQL代码助手
-地址：https://hello.zhangsan.shop/g/g-m5lMeGifF-sql-expert
+地址：https://test.zhangsan.cool/g/g-m5lMeGifF-sql-expert
 
 例如：
 ![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/a837d84a-abbe-40e2-a9ff-c0c726f6b4da)
 
 
 ### Matlab代码助手
-专业回答Matlab问题，地址：https://hello.zhangsan.shop/g/g-w6u2v1z4A-matlab
+专业回答Matlab问题，地址：https://test.zhangsan.cool/g/g-w6u2v1z4A-matlab
 
 例如：
 ![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/12f035ee-d54c-4df9-9b07-8c10a99c0a24)
 
 
 ### C和C++助手
-C语言地址：https://hello.zhangsan.shop/g/g-Dqqwww3pM-c
+C语言地址：https://test.zhangsan.cool/g/g-Dqqwww3pM-c
 ![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/bc737b07-260b-4839-bb23-c06d10808390)
 
-C++助手地址：https://hello.zhangsan.shop/g/g-Bgk8s1qOs-c
+C++助手地址：https://test.zhangsan.cool/g/g-Bgk8s1qOs-c
 ![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/b85db906-c2e4-4a33-9f57-e2fce98c07ba)
 
 
 ### R语言代码助手
 
-地址：https://hello.zhangsan.shop/g/g-iedyANQtM-r-and-r-studio-tutor
+地址：https://test.zhangsan.cool/g/g-iedyANQtM-r-and-r-studio-tutor
 ![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/d439d628-7cd2-488d-b82a-1c6f9d0b2840)
 
 ### 董宇辉小作文 
@@ -256,21 +250,21 @@ C++助手地址：https://hello.zhangsan.shop/g/g-Bgk8s1qOs-c
 
 
 ### 论文助手（改写 润色 降重）
-地址：https://hello.zhangsan.shop/g/g-wkzpyfRp2-lun-wen-zhu-shou
+地址：https://test.zhangsan.cool/g/g-wkzpyfRp2-lun-wen-zhu-shou
 ![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/3893bffa-acaf-4889-ae89-0bf081437c9a)
 
 ### 论文降重（重述/降重）
-地址：https://hello.zhangsan.shop/g/g-SSzkSbljn-bi-ye-lun-wen-jiang-zhong
+地址：https://test.zhangsan.cool/g/g-SSzkSbljn-bi-ye-lun-wen-jiang-zhong
 ![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/7a4af2a3-a82e-45cd-b6c4-890a5c53cf1b)
 
-地址：https://hello.zhangsan.shop/g/g-OA8uckJgl-zhong-wen-lun-wen-jiang-zhong
+地址：https://test.zhangsan.cool/g/g-OA8uckJgl-zhong-wen-lun-wen-jiang-zhong
 ![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/b633b437-752e-4d83-adf3-5f86d6b9618c)
 
 
 ### 学术论文润色（顶刊润色）
-地址：https://hello.zhangsan.shop/g/g-ve9iCVdxY-xue-zhu-lun-wen-run-se
+地址：https://test.zhangsan.cool/g/g-ve9iCVdxY-xue-zhu-lun-wen-run-se
 文献综述
-地址：https://hello.zhangsan.shop/g/g-DfjUtk6PI-wen-xian-zong-shu-zhi-wang
+地址：https://test.zhangsan.cool/g/g-DfjUtk6PI-wen-xian-zong-shu-zhi-wang
 
 ### 文献搜索（Scholar Pro）
 
@@ -281,7 +275,7 @@ Scholar Pro，地址：https://share.moshayaoji.site/g/g-Zhdh0y9eI-scholar-pro
 
 
 ### 大学的数学问题求解
-地址：https://hello.zhangsan.shop/g/g-odWlfAKWM-math
+地址：https://test.zhangsan.cool/g/g-odWlfAKWM-math
 
 例如：
 ![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/2e3d865b-ffb6-4b25-be76-305416976fb7)
@@ -291,7 +285,7 @@ Scholar Pro，地址：https://share.moshayaoji.site/g/g-Zhdh0y9eI-scholar-pro
 
 
 
-这个也可以：https://hello.zhangsan.shop/g/g-9YeZz6m6k-math-solver  可以按步骤求解
+这个也可以：https://test.zhangsan.cool/g/g-9YeZz6m6k-math-solver  可以按步骤求解
 ![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/5954901c-bdda-4665-aa8e-fa4453d2d681)
 
 
@@ -315,13 +309,9 @@ Scholar Pro，地址：https://share.moshayaoji.site/g/g-Zhdh0y9eI-scholar-pro
 
 
 ### 更多GPTS
-你可以根据自己需求，在这里搜索相关的关键词即可：https://hello.zhangsan.shop/gpts
+你可以根据自己需求，在这里搜索相关的关键词即可：https://test.zhangsan.cool/gpts
 ![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/96f754f2-5dbf-4d8c-bd74-c84001977c84)
 
-## 使用中提示GPT4没次数了如何继续对话？
-例如继续对话4O没次数的时候在按钮这里换个4的其它模型就好了哈：
-
-![86f0fdcc9fc1e6a745218644d4f91a89](https://github.com/user-attachments/assets/016dbeb5-833d-4886-8210-289fc6bc0c9d)
 
 ## 常见问题：如何写论文？
 
