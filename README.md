@@ -11,33 +11,39 @@ https://share.searchknowledge.cloud
 <br>
 ![image](https://github.com/user-attachments/assets/4cfb9dbd-eb74-475e-a739-f9cc2e78b93c)
 
-备用站：
+备用站(主站没崩就不要用备用站了）：
  
 <br>
 https://share.mosha.cloud
 <br>
-https://test.zhangsan.cool 
+https://hello.zhangsan.shop
 <br>
 
 
 
-免费使用Grok镜像站：https://www.grok-3.cloud
+免费使用Grok镜像站（填写GPT授权码即可）：https://www.grok-3.cloud
 
-店铺地址：https://test.chuanchuan.cloud  （如果打不开就是需要魔法，或者联系微信购买）
+店铺地址：
+https://test.chuanchuan.cloud  
+https://hello.gptniubi.online
+（如果打不开就是需要魔法，或者联系微信购买）
 <br>
 
               
-售后微信：hxgsrubxjogxeeag
+售后售前微信：hxgsrubxjogxeeag
 
 
 ## 使用方法
-上述店铺购买授权码，回到网站：<br>
-![image](https://github.com/user-attachments/assets/7c158e09-e0e5-4c8f-bdf4-2395645eda4e)
+上述店铺购买授权码（注意保存出来），回到网站：<br>
+![image](https://github.com/user-attachments/assets/17fed5de-4e9b-40b4-bfbc-b58fc574189f)
+
 
 <br>
 填写购买得到的授权码即可进入使用：<br>
 ![image](https://github.com/user-attachments/assets/a048f026-6150-404c-94f4-66ee4f18a5d8)
 
+支持模型和大致介绍：
+![image](https://github.com/user-attachments/assets/62bf7706-a690-4c59-99d3-0608fefacc9d)
 
 
 
@@ -47,7 +53,7 @@ https://test.zhangsan.cool
 
 ## 敏感词检测
 
-如果提示敏感词，请使用该地址检测：[[https://limit.mosha.cloud](https://limit.zhangsan.cool)](https://limit.zhangsan.cool)
+如果提示敏感词，拒绝黄赌毒，请使用该地址检测后避开敏感词再提问：[[https://limit.mosha.cloud](https://limit.zhangsan.cool)](https://limit.zhangsan.cool)
 ![image](https://github.com/user-attachments/assets/2e2ce911-dcdd-4fd9-818b-43d2e26d4adf)
 
 
@@ -73,7 +79,7 @@ https://test.zhangsan.cool
 我们有专业的技术团队，已经稳定运营2年之久。我们的维护成本很大，基本大家下单的钱都用于账号购买和技术升级，基本没有多少的利润，只为给大家提供一个安全/稳定的GPT服务。如果网站体验好，请帮我们宣传，足够的用户是我们继续做下去的动力。
 
 ## 本网站无降智
-降智即4系列模型无法分析文件/无联网/无画图，O1系列模型无思考。
+降智即4系列模型无法分析文件/无联网/无画图，O1/O3系列模型无思考。
 ![3be33f87f4674fd1d9afc4a51d4ab956](https://github.com/user-attachments/assets/6815ad23-4a20-4f9a-88b9-cadcd4ba353a)
 ![8654abc84444806f8b13b20671ae44ee](https://github.com/user-attachments/assets/c9555349-715b-45c4-bf89-8a37ba91d032)
 
