@@ -37,16 +37,12 @@ https://hello.gptniubi.online <br>
 ![image](https://github.com/user-attachments/assets/17fed5de-4e9b-40b4-bfbc-b58fc574189f)
 
 <br>
-填写购买得到的授权码即可进入使用：
-<br>
-![image](https://github.com/user-attachments/assets/a048f026-6150-404c-94f4-66ee4f18a5d8)
-
-支持模型和大致介绍：
+填写购买得到的授权码即可进入使用，支持模型和大致介绍：
 ![image](https://github.com/user-attachments/assets/62bf7706-a690-4c59-99d3-0608fefacc9d)
 
 
 
-## 视频教学,每周更新
+## 视频教学,每周都会更新，优先看这里
 见b站：https://space.bilibili.com/591228087
 
 
