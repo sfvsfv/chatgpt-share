@@ -37,7 +37,8 @@ https://hello.gptniubi.online <br>
 ![image](https://github.com/user-attachments/assets/17fed5de-4e9b-40b4-bfbc-b58fc574189f)
 
 <br>
-填写购买得到的授权码即可进入使用，支持模型和大致介绍：
+填写购买得到的授权码即可进入使用，支持模型和大致介绍：<br>
+
 ![image](https://github.com/user-attachments/assets/62bf7706-a690-4c59-99d3-0608fefacc9d)
 
 
@@ -169,7 +170,7 @@ https://hello.gptniubi.online <br>
 地址：https://test.zhangsan.cool/g/g-pNWGgUYqS-webpilot
 ![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/f22f776f-b069-4a18-b33c-667ed1b04d42)
 
-当然，主界面（https://test.zhangsan.cool/）提问也是自带联网，但是提问的时候请加”联网“两个字：
+当然，主界面 https://test.zhangsan.cool 提问也是自带联网，但是提问的时候请加”联网“两个字：
 ![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/21696a35-158f-4ba9-bacd-519410aec85f)
 
 ### 数学建模编程专属助手
@@ -177,7 +178,7 @@ https://hello.gptniubi.online <br>
 ![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/8fed4abb-c9a7-456e-864e-13abfe109b31)
 
 
-地址：[https://test.zhangsan.cool/g/g-SqXqpLMU8-shu-xue-jian-mo-bi-sai-bian-cheng-zhu-shou](https://share.moshayaoji.site/g/g-6755500e254481919dd017ef7009157b-shu-xue-jian-mo-bi-sai-bian-cheng-zhu-shou)
+地址：https://test.zhangsan.cool/g/g-6755500e254481919dd017ef7009157b-shu-xue-jian-mo-bi-sai-bian-cheng-zhu-shou
 
 
 演示如下：
