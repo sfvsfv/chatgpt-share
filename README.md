@@ -12,21 +12,19 @@ https://share.searchknowledge.cloud
 ![image](https://github.com/user-attachments/assets/4cfb9dbd-eb74-475e-a739-f9cc2e78b93c)
 
 备用站(主站没崩就不要用备用站了）：
- 
-<br>
 https://share.mosha.cloud
 <br>
 https://hello.zhangsan.shop
 <br>
 
 
-
 免费使用Grok镜像站（填写GPT授权码即可）：https://www.grok-3.cloud
 
-店铺地址：
+店铺地址：<br>
 https://test.chuanchuan.cloud  
-https://hello.gptniubi.online
-（如果打不开就是需要魔法，或者联系微信购买）
+<br>
+https://hello.gptniubi.online <br>
+（如果都打不开就是需要魔法，或者联系微信购买）
 <br>
 
               
@@ -34,12 +32,13 @@ https://hello.gptniubi.online
 
 
 ## 使用方法
-上述店铺购买授权码（注意保存出来），回到网站：<br>
+上述店铺购买授权码（注意保存出来），回到网站：
+<br>
 ![image](https://github.com/user-attachments/assets/17fed5de-4e9b-40b4-bfbc-b58fc574189f)
 
-
 <br>
-填写购买得到的授权码即可进入使用：<br>
+填写购买得到的授权码即可进入使用：
+<br>
 ![image](https://github.com/user-attachments/assets/a048f026-6150-404c-94f4-66ee4f18a5d8)
 
 支持模型和大致介绍：
