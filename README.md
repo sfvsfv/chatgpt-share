@@ -12,14 +12,13 @@ https://share.searchknowledge.cloud
 ![image](https://github.com/user-attachments/assets/4cfb9dbd-eb74-475e-a739-f9cc2e78b93c)
 
 备用站：
-
+ 
 <br>
 https://share.mosha.cloud
 <br>
 https://hello.zhangsan.shop 
 <br>
-https://hello.aiforme.cloud
-<br>
+
 
 
 免费使用Grok镜像站：https://www.grok-3.cloud
@@ -166,7 +165,7 @@ https://hello.aiforme.cloud
 ![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/0eda5b93-2d1f-4c9c-a98c-b5beacbca48a)
 
 
-地址：https://share.mosha.cloud/g/g-vI2kaiM9N-whimsical-diagrams
+地址：https://share.moshayaoji.site/g/g-vI2kaiM9N-whimsical-diagrams
 ![image](https://github.com/user-attachments/assets/f7b4a71e-7cce-49db-b3f9-3d6bd14ec572)
 
 
@@ -183,7 +182,7 @@ https://hello.aiforme.cloud
 ![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/8fed4abb-c9a7-456e-864e-13abfe109b31)
 
 
-地址：[https://hello.zhangsan.shop/g/g-SqXqpLMU8-shu-xue-jian-mo-bi-sai-bian-cheng-zhu-shou](https://share.mosha.cloud/g/g-6755500e254481919dd017ef7009157b-shu-xue-jian-mo-bi-sai-bian-cheng-zhu-shou)
+地址：[https://hello.zhangsan.shop/g/g-SqXqpLMU8-shu-xue-jian-mo-bi-sai-bian-cheng-zhu-shou](https://share.moshayaoji.site/g/g-6755500e254481919dd017ef7009157b-shu-xue-jian-mo-bi-sai-bian-cheng-zhu-shou)
 
 
 演示如下：
@@ -195,7 +194,7 @@ https://hello.aiforme.cloud
 
 ### AI率降重工具
 
-地址：https://share.mosha.cloud/g/g-2EWM0IhOe-lun-wen-aigczhi-jiang-di-shen-qi
+地址：https://share.moshayaoji.site/g/g-2EWM0IhOe-lun-wen-aigczhi-jiang-di-shen-qi
 
 ![QQ_1723868196085](https://github.com/user-attachments/assets/1df4df2d-7819-47b3-80e3-ea422329de83)
 
@@ -251,7 +250,7 @@ C++助手地址：https://hello.zhangsan.shop/g/g-Bgk8s1qOs-c
 ![image](https://github.com/sfvsfv/chatgpt-share/assets/62045791/d439d628-7cd2-488d-b82a-1c6f9d0b2840)
 
 ### 董宇辉小作文 
-辅助你更好的写文案，地址：https://share.mosha.cloud/g/g-CRzWQQyAD-dong-yu-hui-xiao-zuo-wen
+辅助你更好的写文案，地址：https://share.moshayaoji.site/g/g-CRzWQQyAD-dong-yu-hui-xiao-zuo-wen
 
 ![4c5da7fe17fbf9d15d32310e2582c947](https://github.com/sfvsfv/chatgpt-share/assets/62045791/9d0e7ccc-9036-42f7-96be-7ed57c79dfba)
 
@@ -275,7 +274,7 @@ C++助手地址：https://hello.zhangsan.shop/g/g-Bgk8s1qOs-c
 
 ### 文献搜索（Scholar Pro）
 
-Scholar Pro，地址：https://share.mosha.cloud/g/g-Zhdh0y9eI-scholar-pro
+Scholar Pro，地址：https://share.moshayaoji.site/g/g-Zhdh0y9eI-scholar-pro
 
 ![image](https://github.com/user-attachments/assets/f2cb22b7-6b3b-4c63-92de-29b7bfa64f44)
 
@@ -297,19 +296,19 @@ Scholar Pro，地址：https://share.mosha.cloud/g/g-Zhdh0y9eI-scholar-pro
 
 
 ### 降低AI率工具
-地址：https://share.mosha.cloud/g/g-3w6Exl9u7-ai-to-human-text-converter
+地址：https://share.moshayaoji.site/g/g-3w6Exl9u7-ai-to-human-text-converter
 <img width="1250" alt="image" src="https://github.com/sfvsfv/chatgpt-share/assets/62045791/4d3b6f0e-24bc-474b-bef9-c4e6a8aba991">
 
 
 ##  PDF阅读，读文献（研究生常用）
 
-（推荐）地址：https://share.mosha.cloud/g/g-QSh6KHL3S-pdf-reader
+（推荐）地址：https://share.moshayaoji.site/g/g-QSh6KHL3S-pdf-reader
 
 ![QQ_1720971779625](https://github.com/user-attachments/assets/68ab0fec-d482-4923-a8d5-97125ade57c9)
 
 
 
-地址：https://share.mosha.cloud/g/g-dZyKGS17d-pdf-ai
+地址：https://share.moshayaoji.site/g/g-dZyKGS17d-pdf-ai
 
 ![image](https://github.com/user-attachments/assets/a0fb9ae1-5d19-479b-a36e-28cc16814e0b)
 
