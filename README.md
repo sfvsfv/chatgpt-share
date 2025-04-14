@@ -30,6 +30,8 @@ https://hello.gptniubi.online <br>
               
 售后售前微信：hxgsrubxjogxeeag
 
+最新的GPT4O画图教程玩法：https://docs.qq.com/doc/DRm9DcHRHR0xzZkd3
+
 
 ## 使用方法
 上述店铺购买授权码（注意保存出来），回到网站：
