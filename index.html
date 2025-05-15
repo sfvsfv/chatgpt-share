@@ -1,53 +1,843 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
-    <title>ChatGPT中国区官方代理站</title>
-    <meta charset="UTF-8"> <!-- 设置字符编码为 UTF-8 -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>一站式AI智能平台</title>
+    <script src="/chuan_static/tailwind.css"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="https://s1.hdslb.com/bfs/static/jinkela/long/font/regular.css">
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    colors: {
+                        primary: {
+                            "50": "#ffffff",
+                            "100": "#ffffff",
+                            "200": "#eaecf6",
+                            "300": "#c7cbe6",
+                            "400": "#8e98d2",
+                            "500": "#6473c9",
+                            "600": "#3a4ec0",
+                            "700": "#2f42b2",
+                            "800": "#23349a",
+                            "900": "#1b2979"
+                        },
+                        secondary: {
+                            "50": "#ffffff",
+                            "100": "#ffffff",
+                            "200": "#ffffff",
+                            "300": "#eddff1",
+                            "400": "#d0a7dd",
+                            "500": "#be7ed3",
+                            "600": "#ae52cc",
+                            "700": "#a838cc",
+                            "800": "#9528b8",
+                            "900": "#7a2197"
+                        },
+                        neutral: {
+                            "50": "#ffffff",
+                            "100": "#ffffff",
+                            "200": "#ffffff",
+                            "300": "#ffffff",
+                            "400": "#f2f2f3",
+                            "500": "#d5d8dd",
+                            "600": "#b6bdc9",
+                            "700": "#a3afc2",
+                            "800": "#899bb9",
+                            "900": "#6f85aa"
+                        },
+                    },
+                    borderRadius: {
+                        DEFAULT: '12px',
+                    },
+                    typography: {
+                        DEFAULT: {
+                            css: {
+                                fontSize: '16px',
+                                lineHeight: 1.5,
+                            }
+                        }
+                    },
+                    fontFamily: {
+                        sans: ['"HarmonyOS_Regular"', 'sans-serif'],
+                        serif: ['"HarmonyOS_Regular"', 'serif'],
+                        mono: ['"HarmonyOS_Regular"', 'monospace'],
+                        display: ['"HarmonyOS_Regular"', 'sans-serif'],
+                        handwriting: ['"HarmonyOS_Regular"', 'sans-serif'],
+                        harmony: ['"HarmonyOS_Regular"', 'sans-serif'],
+                    }
+                }
+            }
+        }
+    </script>
     <style>
-        body {
-            background-color: lightblue; /* 修改背景颜色为浅蓝色 */
-            color: black; /* 设置文字颜色为黑色 */
-            font-family: Arial, sans-serif; /* 设置字体 */
+        body, button, input, textarea, select {
+            font-family: 'HarmonyOS_Regular', sans-serif;
         }
-        h1 {
-            text-align: center; /* 标题居中 */
-            margin-bottom: 30px; /* 增加标题与内容的间距 */
+        .transition-all {
+            transition: all 0.3s ease;
         }
-        h3 {
-            text-align: center; /* 标题居中 */
-            margin-bottom: 30px; /* 增加标题与内容的间距 */
+        .hover-scale:hover {
+            transform: scale(1.03);
         }
-        h4 {
-            text-align: center; /* 标题居中 */
-            margin-bottom: 20px; /* 增加标题与内容的间距 */
+        .appear-animation {
+            animation: fadeIn 0.6s ease-in-out;
         }
-        .purchase-link {
-            display: block; /* 让链接独占一行 */
-            background-color: yellow; /* 设置链接背景颜色为黄色 */
-            color: black; /* 设置链接文字颜色为黑色 */
-            text-align: center; /* 链接文本居中 */
-            padding: 10px; /* 增加内部填充，使链接更加突出 */
-            margin-top: 20px; /* 与上面内容的间隙 */
-            text-decoration: none; /* 移除下划线 */
-            font-weight: bold; /* 字体加粗 */
-            border-radius: 5px; /* 边角圆滑处理 */
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        
+        html {
+            scroll-behavior: smooth;
+        }
+
+        * {
+            font-family: 'HarmonyOS_Regular', sans-serif;
+        }
+        
+        @keyframes highlight-pulse {
+            0% { box-shadow: 0 0 0 0 rgba(124, 58, 237, 0.7); }
+            70% { box-shadow: 0 0 0 10px rgba(124, 58, 237, 0); }
+            100% { box-shadow: 0 0 0 0 rgba(124, 58, 237, 0); }
+        }
+        
+        .auth-code-highlight {
+            animation: highlight-pulse 2s infinite;
+            border-radius: 12px;
+        }
+
+        /* Styles for scrollbar in modal content if needed */
+        #modal-announcement-content::-webkit-scrollbar {
+            width: 8px;
+        }
+        #modal-announcement-content::-webkit-scrollbar-track {
+            background: transparent;
+        }
+        #modal-announcement-content::-webkit-scrollbar-thumb {
+            background-color: rgba(0,0,0,0.2);
+            border-radius: 10px;
+            border: 2px solid transparent;
+            background-clip: content-box;
+        }
+        .dark #modal-announcement-content::-webkit-scrollbar-thumb {
+            background-color: rgba(255,255,255,0.2);
         }
     </style>
 </head>
-<body>
-<div style="grid-column: span 1 / span 1;">
+<body class="bg-white dark:bg-gray-900 font-harmony transition-all">
+    <div class="fixed top-4 right-4 z-50">
+        <button id="theme-toggle" class="p-2 rounded-full bg-primary-200 dark:bg-primary-800 text-primary-800 dark:text-white transition-all hover-scale">
+            <i class="fa-solid fa-sun dark:hidden"></i>
+            <i class="fa-solid fa-moon hidden dark:inline"></i>
+        </button>
+    </div>
 
-    <h1>ChatG PT中国区代理官方备用站点（状态：正常,所有用户最新网址）</h1>
-    <h3>售前售后续费联系微信：hxgsrubxjogxeeag  永久导航站地址：https://vlink.cc/mosha   </h3>
-     <h3>已上线满血deepseekR1/germini/O4-mini/mathai/claude/grok模型，请使用下方给出的最新网址，本站现为备用站，非必要请不要使用本网站 </h3>
-    <ol>
-        <li>下方店铺打不开请联系微信购买或打开魔法。免费用户继续使用本站，共享mini授权码：free-for-everyone </li>
-        <li>最新网址1：https://test.zhangsan.cool</li>
-         <li>最新网址2：https://share.moshayaoji.site</li>
-           <li>最新网址3：https://share.searchknowledge.cloud</li>
-    </ol>
-    <a href="https://test.chuanchuan.cloud" class="purchase-link">GPT4.0/4o/O3/O4/canvas/--授权码点击购买</a>
+    <header class="relative bg-white dark:bg-gray-900 shadow-sm dark:shadow-gray-800 appear-animation">
+        <div class="container mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between items-center py-4">
+                <div class="flex items-center space-x-8">
+                    <a href="#" class="flex items-center">
+                        <span class="text-3xl font-bold font-mono bg-gradient-to-r from-primary-600 to-secondary-700 text-transparent bg-clip-text">ChatAI</span>
+                    </a>
+                    <nav class="hidden md:flex space-x-8">
+                        <a href="#" class="text-gray-700 dark:text-gray-200 hover:text-primary-600 dark:hover:text-primary-400 font-medium transition-all">首页</a>
+                        <a href="https://hello.gptniubi.online/" target="_blank" class="text-gray-700 dark:text-gray-200 hover:text-primary-600 dark:hover:text-primary-400 font-medium transition-all">商城</a>
+                        <a href="https://gitee.com/dgzde567/chatgpt-share" target="_blank" class="text-gray-700 dark:text-gray-200 hover:text-primary-600 dark:hover:text-primary-400 font-medium transition-all">使用方法</a>
+                    </nav>
+                </div>
 
-</div>
+                <div class="flex items-center space-x-4">
+                    <a href="#" id="notification-bell" class="hidden sm:inline-block text-gray-700 dark:text-gray-200 hover:text-primary-600 dark:hover:text-primary-400 font-medium transition-all">
+                        <i class="fa-regular fa-bell mr-1"></i>
+                    </a>
+                    <a href="#auth-code-section" class="py-2 px-4 bg-primary-600 hover:bg-primary-700 text-white rounded-lg transition-all hover-scale">
+                        <i class="fa-solid fa-user mr-1"></i>登录
+                    </a>
+                </div>
+
+                <div class="md:hidden">
+                    <button id="mobile-menu-button" class="text-gray-700 dark:text-gray-200 hover:text-primary-600 dark:hover:text-primary-400">
+                        <i class="fa-solid fa-bars text-xl"></i>
+                    </button>
+                </div>
+            </div>
+
+            <div id="mobile-menu" class="hidden md:hidden py-2 appear-animation">
+                <div class="flex flex-col space-y-3 pb-3">
+                    <a href="#" class="text-gray-700 dark:text-gray-200 hover:text-primary-600 dark:hover:text-primary-400 font-medium transition-all">首页</a>
+                    <a href="https://hello.gptniubi.online/" target="_blank" class="text-gray-700 dark:text-gray-200 hover:text-primary-600 dark:hover:text-primary-400 font-medium transition-all">商城</a>
+                    <a href="https://gitee.com/dgzde567/chatgpt-share" target="_blank" class="text-gray-700 dark:text-gray-200 hover:text-primary-600 dark:hover:text-primary-400 font-medium transition-all">使用方法</a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main class="container mx-auto px-4 sm:px-6 lg:px-8 py-10">
+        <section class="text-center mb-16 appear-animation">
+            <div class="max-w-4xl mx-auto">
+                <h1 class="text-4xl md:text-5xl lg:text-6xl font-bold mb-6 font-mono bg-gradient-to-r from-primary-600 to-secondary-700 text-transparent bg-clip-text">让全世界顶级人工智能为你打工</h1>
+                <br>
+                <div class="max-w-3xl mx-auto relative">
+                    <div class="flex items-center rounded-full shadow-lg bg-white dark:bg-gray-800 overflow-hidden border border-gray-200 dark:border-gray-700">
+                        <input id="search-input" type="text" placeholder="只要一下，ChatGPT/DeepSeek/Gemini等可以帮你写作、学习、处理工作中的任何问题" class="w-full py-4 px-6 focus:outline-none text-gray-700 dark:text-gray-200 bg-transparent">
+                        <button id="search-button" class="bg-primary-600 hover:bg-primary-700 text-white p-4 transition-all hover-scale">
+                            <i class="fa-solid fa-search text-lg"></i>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="mb-16">
+            <div id="model-list-container" class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-8 gap-3 mb-8 appear-animation">
+                <button class="flex items-center justify-center py-3 px-4 rounded-lg bg-neutral-200 dark:bg-gray-800 hover:bg-primary-200 dark:hover:bg-primary-800 transition-all hover-scale">
+                    <i class="fa-solid fa-spinner fa-spin mr-2 text-primary-700 dark:text-primary-400"></i>
+                    <span class="text-sm">加载中...</span>
+                </button>
+            </div>
+        </section>
+        
+        <!-- 使用教程区域 -->
+        <section class="mb-16 appear-animation">
+            <div class="bg-neutral-100 dark:bg-gray-800 rounded-xl p-6 shadow-md hover:shadow-lg transition-all">
+                <div class="flex items-center mb-5">
+                    <div class="w-10 h-10 rounded-full bg-gradient-to-r from-primary-500 to-secondary-600 flex items-center justify-center text-white mr-4 shadow-sm">
+                        <i class="fa-solid fa-bullhorn"></i>
+                    </div>
+                    <h3 class="text-xl font-bold bg-gradient-to-r from-primary-600 to-secondary-700 text-transparent bg-clip-text">最新公告</h3>
+                </div>
+                
+                <div id="announcement-content" class="prose prose-sm max-w-none dark:prose-invert bg-white dark:bg-gray-700 rounded-lg p-5 shadow-inner">
+                    <!-- 动态加载Markdown格式的公告内容 -->
+                    <p class="text-gray-700 dark:text-gray-300 flex items-center justify-center py-6">
+                        <i class="fa-solid fa-spinner fa-spin mr-2 text-primary-500"></i>
+                        <span class="text-base">加载公告中...</span>
+                    </p>
+                </div>
+
+            </div>
+        </section>
+        
+        <section class="mb-16 appear-animation">
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+                <div class="bg-gradient-to-br from-primary-100 to-secondary-100 dark:from-gray-800 dark:to-gray-700 rounded-xl p-6 shadow-lg relative overflow-hidden h-full">
+                    <div id="ai-carousel" class="relative overflow-hidden rounded-lg shadow-lg h-full">
+                        <div class="relative h-full overflow-hidden rounded-lg">
+                            <div class="flex items-center justify-center h-full bg-gray-100 dark:bg-gray-800">
+                                <i class="fa-solid fa-spinner fa-spin text-3xl text-primary-500"></i>
+                            </div>
+                        </div>
+                        
+                        <button type="button" class="absolute top-1/2 left-3 transform -translate-y-1/2 z-10 flex items-center justify-center h-8 w-8 rounded-full bg-white/30 backdrop-blur-sm hover:bg-white/50 focus:ring-2 focus:ring-white" data-carousel-prev>
+                            <i class="fa-solid fa-chevron-left text-white"></i>
+                        </button>
+                        <button type="button" class="absolute top-1/2 right-3 transform -translate-y-1/2 z-10 flex items-center justify-center h-8 w-8 rounded-full bg-white/30 backdrop-blur-sm hover:bg-white/50 focus:ring-2 focus:ring-white" data-carousel-next>
+                            <i class="fa-solid fa-chevron-right text-white"></i>
+                        </button>
+                        
+                        <div class="absolute bottom-3 left-1/2 transform -translate-x-1/2 z-10 flex space-x-2">
+                            </div>
+                    </div>
+                    
+                    <div class="absolute -top-10 -right-10 w-40 h-40 bg-primary-300 dark:bg-primary-800 opacity-20 rounded-full"></div>
+                    <div class="absolute -bottom-10 -left-10 w-40 h-40 bg-secondary-300 dark:bg-secondary-800 opacity-20 rounded-full"></div>
+                </div>
+                <div class="bg-white dark:bg-gray-800 rounded-xl p-6 shadow-lg">
+                    <h2 class="text-2xl font-bold mb-6 font-mono text-primary-700 dark:text-primary-400">AI智能助手服务</h2>
+                    
+                    <div id="features-container" class="space-y-5">
+                        <div class="flex items-start">
+                            <div class="rounded-full bg-primary-100 dark:bg-primary-900 p-2 mr-3">
+                                <i class="fa-solid fa-spinner fa-spin text-primary-600 dark:text-primary-400"></i>
+                            </div>
+                            <div>
+                                <p class="text-gray-700 dark:text-gray-200">加载中...</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="mt-8 flex flex-wrap gap-3">
+                        <a href="#auth-code-section" class="flex items-center py-3 px-5 rounded-lg bg-primary-600 hover:bg-primary-700 text-white transition-all hover-scale">
+                            <i class="fa-solid fa-crown mr-2"></i> 立即使用
+                        </a>
+                        <a href="https://gitee.com/dgzde567/chatgpt-share" target="_blank" class="flex items-center py-3 px-5 rounded-lg bg-neutral-200 dark:bg-gray-700 text-gray-700 dark:text-gray-200 hover:bg-neutral-300 dark:hover:bg-gray-600 transition-all hover-scale">
+                            <i class="fa-solid fa-circle-info mr-2"></i> 使用说明
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+        <section id="auth-code-section" class="mb-16 appear-animation">
+            <div class="bg-white dark:bg-gray-800 rounded-xl p-6 shadow-lg">
+                <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+                    <div class="flex flex-col items-center md:items-start">
+                        <div class="w-20 h-20 rounded-full bg-gradient-to-br from-primary-200 to-secondary-300 dark:from-primary-800 dark:to-secondary-800 flex items-center justify-center mb-4 shadow-md">
+                            <i class="fa-solid fa-user text-3xl text-white"></i>
+                        </div>
+                        <div class="text-center md:text-left">
+                            <p class="text-sm text-primary-600 dark:text-primary-400 mb-1">还未登录，请先登录</p>
+                            <p class="text-gray-600 dark:text-gray-300">请登录以解锁更多功能和模型使用权限</p>
+                        </div>
+                    </div>
+                    
+                    <div class="flex flex-col justify-center space-y-4">
+                        <div class="flex flex-wrap justify-center md:justify-start gap-2">
+                            <div class="px-4 py-2 rounded-lg bg-primary-100 dark:bg-primary-800 text-primary-700 dark:text-primary-300 text-sm flex items-center hover:shadow-md transition-all">
+                                <i class="fa-solid fa-robot mr-2"></i>
+                                <span>智能选择</span>
+                            </div>
+                            <div class="px-4 py-2 rounded-lg bg-secondary-100 dark:bg-secondary-800 text-secondary-700 dark:text-secondary-300 text-sm flex items-center hover:shadow-md transition-all">
+                                <i class="fa-solid fa-crown mr-2"></i>
+                                <span>Plus专享</span>
+                            </div>
+                            <div class="px-4 py-2 rounded-lg bg-neutral-100 dark:bg-neutral-800 text-neutral-700 dark:text-neutral-300 text-sm flex items-center hover:shadow-md transition-all">
+                                <i class="fa-solid fa-crown mr-2"></i>
+                                <span>顶尖模型</span>
+                            </div>
+                        </div>
+                        
+                        <button class="w-full md:w-auto mx-auto md:mx-0 flex items-center justify-center py-3 px-6 rounded-xl bg-gradient-to-r from-primary-500 to-secondary-500 text-white hover:from-primary-600 hover:to-secondary-600 transition-all hover-scale shadow-md">
+                            <i class="fa-solid fa-comments text-xl mr-3"></i>
+                            <span class="font-medium">开始对话</span>
+                        </button>
+                    </div>
+
+                    <div class="flex flex-col items-center md:items-end justify-center">
+                        <a href="https://hello.gptniubi.online/" target="_blank" 
+                           class="w-full md:w-auto py-3 px-6 rounded-xl bg-gradient-to-r from-primary-600 via-secondary-500 to-secondary-600 text-white hover:from-primary-700 hover:via-secondary-600 hover:to-secondary-700 transition-all hover-scale shadow-lg flex items-center justify-center group mb-3">
+                            <i class="fa-solid fa-gem text-xl mr-3 group-hover:rotate-12 transition-transform"></i>
+                            <span class="font-medium">会员授权码购买</span>
+                        </a>
+                        <div class="text-center md:text-right">
+                            <p class="text-sm text-gray-600 dark:text-gray-400 flex items-center justify-center md:justify-end">
+                                <i class="fa-solid fa-star text-yellow-400 mr-2"></i>
+                                <span>解锁全部高级功能与专属特权</span>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="mt-8 pt-6 border-t border-gray-200 dark:border-gray-700">
+                    <div class="flex flex-col sm:flex-row items-center gap-4 auth-code-highlight">
+                        <div class="relative w-full sm:flex-1">
+                            <div class="absolute inset-y-0 left-0 flex items-center pl-3 pointer-events-none">
+                                <i class="fa-solid fa-key text-gray-500 dark:text-gray-400"></i>
+                            </div>
+                            <input id="auth-code-input" type="password" class="block w-full pl-10 pr-10 py-3 rounded-lg border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-800 text-gray-700 dark:text-gray-200 focus:ring-2 focus:ring-primary-500 focus:border-primary-500 transition-all" placeholder="请输入授权码...">
+                            <button id="clear-auth-code" class="absolute inset-y-0 right-0 flex items-center pr-3 text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-200 cursor-pointer">
+                                <i class="fa-solid fa-times-circle"></i>
+                            </button>
+                        </div>
+                        <button id="auth-code-submit" class="py-3 px-6 rounded-lg bg-primary-600 hover:bg-primary-700 text-white transition-all hover-scale shadow w-full sm:w-auto">
+                            <i class="fa-solid fa-arrow-right mr-2"></i>
+                            点击登录
+                        </button>
+                    </div>
+                    <p id="auth-code-error" class="mt-2 text-red-500 text-sm hidden">授权码不能为空，请输入有效的授权码</p>
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <footer class="bg-white dark:bg-gray-900 border-t border-gray-200 dark:border-gray-800 py-8 appear-animation">
+        <div class="container mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+                <div>
+                    <h3 class="text-lg font-bold mb-4 text-gray-900 dark:text-gray-100 font-mono">作者信息</h3>
+                    <p class="text-gray-600 dark:text-gray-400 mb-2"> 川川</p>
+                    <div class="flex space-x-4 mb-4">
+                        <a href="https://space.bilibili.com/591228087" class="text-gray-600 dark:text-gray-400 hover:text-primary-600 dark:hover:text-primary-400 transition-all">
+                            <i class="fa-brands fa-bilibili text-xl"></i>
+                        </a>
+                        <a href="https://blog.csdn.net/weixin_46211269" class="text-gray-600 dark:text-gray-400 hover:text-primary-600 dark:hover:text-primary-400 transition-all">
+                            <i class="fa-solid fa-code text-xl"></i>
+                        </a>
+                    </div>
+                </div>
+                
+                <div>
+                    <h3 class="text-lg font-bold mb-4 text-gray-900 dark:text-gray-100 font-mono">快速链接</h3>
+                    <ul class="space-y-2">
+                        <li><a href="https://www.grok-3.cloud" class="text-gray-600 dark:text-gray-400 hover:text-primary-600 dark:hover:text-primary-400 transition-all">Grok3镜像</a></li>
+                        <li><a href="https://claude.zhangsan.shop" class="text-gray-600 dark:text-gray-400 hover:text-primary-600 dark:hover:text-primary-400 transition-all">Claude镜像</a></li>
+                    </ul>
+                </div>
+                
+                <div>
+                    <h3 class="text-lg font-bold mb-4 text-gray-900 dark:text-gray-100 font-mono">联系我们</h3>
+                     <p class="text-gray-600 dark:text-gray-400 mb-2">微信：hxgsrubxjogxeeag</p>
+                    <p class="text-gray-600 dark:text-gray-400 mb-2">邮箱：2835809579@qq.com</p>
+                </div>
+            </div>
+            
+            <div class="mt-8 pt-6 border-t border-gray-200 dark:border-gray-800 text-center">
+                <p class="text-gray-600 dark:text-gray-400">&copy; 2023-2024 ChaAI. 版权所有。</p>
+            </div>
+        </div>
+    </footer>
+
+    <div id="announcement-modal" class="fixed inset-0 bg-gray-600 bg-opacity-50 dark:bg-opacity-75 overflow-y-auto h-full w-full flex items-center justify-center z-[100] hidden p-4">
+        <div class="relative mx-auto p-5 border w-full max-w-xl shadow-xl rounded-xl bg-white dark:bg-gray-800 transform transition-all duration-300 ease-out scale-95 opacity-0">
+            <div class="mt-3">
+                <div class="flex items-center justify-center mb-5">
+                     <div class="w-10 h-10 rounded-full bg-gradient-to-r from-primary-500 to-secondary-600 flex items-center justify-center text-white mr-3 shadow-sm flex-shrink-0">
+                        <i class="fa-solid fa-bullhorn"></i>
+                    </div>
+                    <h3 class="text-xl leading-6 font-bold bg-gradient-to-r from-primary-600 to-secondary-700 text-transparent bg-clip-text">最新公告</h3>
+                </div>
+                <div id="modal-announcement-content" class="mt-2 px-2 py-3 prose prose-sm max-w-none dark:prose-invert text-left max-h-[60vh] overflow-y-auto text-gray-700 dark:text-gray-300">
+                    <p class="flex items-center justify-center py-6">
+                        <i class="fa-solid fa-spinner fa-spin mr-2 text-primary-500"></i>
+                        <span class="text-base">加载公告中...</span>
+                    </p>
+                </div>
+                <div class="items-center px-2 py-3 mt-4 flex flex-col sm:flex-row-reverse gap-3">
+                    <button id="modal-ok-button" class="w-full sm:w-auto px-4 py-2 bg-primary-600 text-white text-base font-medium rounded-lg shadow-sm hover:bg-primary-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-primary-500 dark:focus:ring-offset-gray-800 transition-all">
+                        确定
+                    </button>
+                    <button id="modal-dont-show-button" class="w-full sm:w-auto px-4 py-2 bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-200 text-base font-medium rounded-lg shadow-sm hover:bg-gray-300 dark:hover:bg-gray-600 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-400 dark:focus:ring-offset-gray-800 transition-all">
+                        12小时内不再显示
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <script src="/chuan_static/preline.js"></script>
+    
+    <script src="/chuan_static/marked.min.js"></script>
+
+    <script>
+        const announcementModal = document.getElementById('announcement-modal');
+        const modalInteractiveContent = announcementModal ? announcementModal.querySelector('.relative.mx-auto') : null; // For animation
+        let currentAnnouncementContent = ''; // Store announcement content for use with notification bell
+
+        function openAnnouncementModal() {
+            if (!announcementModal || !modalInteractiveContent) return;
+            
+            // Make sure announcement content is loaded if bell is clicked
+            const modalAnnouncementEl = document.getElementById('modal-announcement-content');
+            if (modalAnnouncementEl && modalAnnouncementEl.innerHTML.includes('加载公告中') && currentAnnouncementContent && typeof marked !== 'undefined') {
+                modalAnnouncementEl.innerHTML = marked.parse(currentAnnouncementContent);
+            }
+            
+            announcementModal.classList.remove('hidden');
+            // Trigger reflow before adding animation classes
+            announcementModal.offsetHeight; 
+            modalInteractiveContent.classList.remove('scale-95', 'opacity-0');
+            modalInteractiveContent.classList.add('scale-100', 'opacity-100');
+        }
+
+        function closeAnnouncementModal() {
+            if (!announcementModal || !modalInteractiveContent) return;
+            modalInteractiveContent.classList.remove('scale-100', 'opacity-100');
+            modalInteractiveContent.classList.add('scale-95', 'opacity-0');
+            setTimeout(() => {
+                announcementModal.classList.add('hidden');
+            }, 300); // Should match Tailwind's duration-300
+        }
+
+        async function fetchChuanInfo() {
+            try {
+                // 重置缓存的公告内容，确保每次刷新页面时都获取最新内容
+                currentAnnouncementContent = '';
+                
+                const response = await fetch('/chuan_info');
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                
+                const buffer = await response.arrayBuffer();
+                const decoder = new TextDecoder('utf-8');
+                const text = decoder.decode(buffer);
+                
+                let data;
+                try {
+                    data = JSON.parse(text);
+                } catch (e) {
+                    console.error('解析数据失败:', e);
+                    data = {
+                        status: true,
+                        announcement: text, // Use raw text as announcement if JSON parse fails
+                        carousel: [],
+                        features: [],
+                        model_list: {}
+                    };
+                }
+                
+                if (data.status) {
+                    // Handle Announcement Modal
+                    if (data.announcement && announcementModal) {
+                        // Store announcement content for use with notification bell
+                        currentAnnouncementContent = data.announcement;
+                        
+                        const announcementHiddenUntil = localStorage.getItem('announcementHiddenUntil');
+                        const now = new Date().getTime();
+
+                        if (announcementHiddenUntil && now < parseInt(announcementHiddenUntil)) {
+                            console.log("Announcement modal suppressed. Will show again after:", new Date(parseInt(announcementHiddenUntil)));
+                        } else {
+                            const modalAnnouncementEl = document.getElementById('modal-announcement-content');
+                            if (modalAnnouncementEl && typeof marked !== 'undefined') {
+                                modalAnnouncementEl.innerHTML = marked.parse(data.announcement);
+                                openAnnouncementModal();
+                            } else if (!modalAnnouncementEl) {
+                                console.error("Modal announcement content element not found.");
+                            } else if (typeof marked === 'undefined') {
+                                console.error("marked.js library is not loaded.");
+                                modalAnnouncementEl.textContent = "公告加载失败 (Markdown 解析库未找到)";
+                                openAnnouncementModal();
+                            }
+                        }
+                        
+                        // Also update the inline announcement content
+                        const announcementContentEl = document.getElementById('announcement-content');
+                        if (announcementContentEl && typeof marked !== 'undefined') {
+                            // Use announcement_inside field for the inline announcement if available
+                            const inlineContent = data.announcement_inside || data.announcement;
+                            announcementContentEl.innerHTML = marked.parse(inlineContent);
+                        } else if (announcementContentEl && typeof marked === 'undefined') {
+                            announcementContentEl.textContent = "公告加载失败 (Markdown 解析库未找到)";
+                        }
+                    }
+                    
+                    // 渲染轮播图
+                    if (data.carousel && data.carousel.length > 0) {
+                        const carouselContainer = document.querySelector('#ai-carousel .relative.h-full');
+                        if (carouselContainer) {
+                            carouselContainer.innerHTML = '';
+                            data.carousel.forEach((item, index) => {
+                                const slideDiv = document.createElement('div');
+                                slideDiv.id = `carousel-item-${index + 1}`;
+                                slideDiv.className = index === 0 ? 'duration-700 ease-in-out' : 'hidden duration-700 ease-in-out';
+                                slideDiv.setAttribute('data-carousel-item', '');
+                                const slideLink = document.createElement('a');
+                                slideLink.href = item.link || '#';
+                                slideLink.target = '_blank';
+                                const slideImg = document.createElement('img');
+                                slideImg.src = item.image_url;
+                                slideImg.className = 'absolute block w-full h-full object-cover object-center';
+                                slideImg.alt = `轮播图${index + 1}`;
+                                slideLink.appendChild(slideImg);
+                                slideDiv.appendChild(slideLink);
+                                carouselContainer.appendChild(slideDiv);
+                            });
+                            
+                            const indicatorsContainer = document.querySelector('#ai-carousel .absolute.bottom-3');
+                            if (indicatorsContainer) {
+                                indicatorsContainer.innerHTML = '';
+                                data.carousel.forEach((_, index) => {
+                                    const indicator = document.createElement('button');
+                                    indicator.type = 'button';
+                                    indicator.className = 'w-2 h-2 rounded-full bg-white/50 hover:bg-white focus:ring-2 focus:ring-white';
+                                    if (index === 0) {
+                                        indicator.setAttribute('aria-current', 'true');
+                                    }
+                                    indicator.setAttribute('data-carousel-slide-to', index);
+                                    indicatorsContainer.appendChild(indicator);
+                                });
+                            }
+                            initCarousel();
+                        }
+                    }
+                    
+                    if (data.features && data.features.length > 0) {
+                        const featuresContainer = document.getElementById('features-container');
+                        if (featuresContainer) {
+                            featuresContainer.innerHTML = '';
+                            data.features.forEach((feature) => {
+                                const featureDiv = document.createElement('div');
+                                featureDiv.className = 'flex items-start';
+                                const iconDiv = document.createElement('div');
+                                iconDiv.className = 'rounded-full bg-primary-100 dark:bg-primary-900 p-2 mr-3';
+                                iconDiv.innerHTML = '<i class="fa-solid fa-check text-primary-600 dark:text-primary-400"></i>';
+                                const textDiv = document.createElement('div');
+                                textDiv.innerHTML = `<p class="text-gray-700 dark:text-gray-200">${feature}</p>`;
+                                featureDiv.appendChild(iconDiv);
+                                featureDiv.appendChild(textDiv);
+                                featuresContainer.appendChild(featureDiv);
+                            });
+                        }
+                    }
+                    
+                    if (data.model_list && Object.keys(data.model_list).length > 0) {
+                        const modelContainer = document.getElementById('model-list-container');
+                        if (modelContainer) {
+                            modelContainer.innerHTML = '';
+                            Object.entries(data.model_list).forEach(([name, icon]) => {
+                                const modelBtn = document.createElement('button');
+                                modelBtn.className = 'flex items-center justify-center py-3 px-4 rounded-lg bg-neutral-200 dark:bg-gray-800 hover:bg-primary-200 dark:hover:bg-primary-800 transition-all hover-scale';
+                                if (icon && icon.endsWith('.svg')) {
+                                    const img = document.createElement('img');
+                                    img.src = icon;
+                                    img.className = 'h-5 w-5 mr-2';
+                                    img.alt = name;
+                                    modelBtn.appendChild(img);
+                                } else {
+                                    const iconMap = {'gpt3.5': 'fa-robot', 'gpt4': 'fa-star', 'gpt4o': 'fa-bolt', 'claude': 'fa-crown', 'deepseek': 'fa-brain', 'gemini': 'fa-gem'};
+                                    const iconClass = iconMap[name.toLowerCase()] || 'fa-microchip';
+                                    const iconEl = document.createElement('i');
+                                    iconEl.className = `fa-solid ${iconClass} mr-2 text-primary-700 dark:text-primary-400`;
+                                    modelBtn.appendChild(iconEl);
+                                }
+                                const spanEl = document.createElement('span');
+                                spanEl.className = 'text-sm';
+                                spanEl.textContent = name;
+                                modelBtn.appendChild(spanEl);
+                                modelContainer.appendChild(modelBtn);
+                            });
+                        }
+                    }
+                }
+            } catch (error) {
+                console.error('获取信息失败:', error);
+            }
+        }
+
+        function initCarousel() {
+            const carousel = document.getElementById('ai-carousel');
+            if (!carousel) return;
+            const slides = carousel.querySelectorAll('[data-carousel-item]');
+            const totalSlides = slides.length;
+            if (totalSlides <= 0) return;
+            let currentSlide = 0;
+            let autoSlideInterval = null;
+            slides[0].classList.remove('hidden');
+            const indicators = carousel.querySelectorAll('[data-carousel-slide-to]');
+            const prevBtn = carousel.querySelector('[data-carousel-prev]');
+            const nextBtn = carousel.querySelector('[data-carousel-next]');
+            
+            function showSlide(index) {
+                slides.forEach(slide => slide.classList.add('hidden'));
+                indicators.forEach(indicator => indicator.removeAttribute('aria-current'));
+                slides[index].classList.remove('hidden');
+                if (indicators[index]) indicators[index].setAttribute('aria-current', 'true');
+                currentSlide = index;
+            }
+            
+            function nextSlideFn() {
+                let nextIndex = currentSlide + 1;
+                if (nextIndex >= totalSlides) nextIndex = 0;
+                showSlide(nextIndex);
+            }
+            
+            function prevSlideFn() {
+                let prevIndex = currentSlide - 1;
+                if (prevIndex < 0) prevIndex = totalSlides - 1;
+                showSlide(prevIndex);
+            }
+            
+            function resetAutoSlide() {
+                if (autoSlideInterval) clearInterval(autoSlideInterval);
+                autoSlideInterval = setInterval(nextSlideFn, 3000);
+            }
+
+            if (prevBtn) prevBtn.addEventListener('click', () => { prevSlideFn(); resetAutoSlide(); });
+            if (nextBtn) nextBtn.addEventListener('click', () => { nextSlideFn(); resetAutoSlide(); });
+            
+            indicators.forEach((indicator, index) => {
+                indicator.addEventListener('click', () => { showSlide(index); resetAutoSlide(); });
+            });
+            
+            resetAutoSlide(); // Initial start
+            
+            carousel.addEventListener('mouseenter', () => { if (autoSlideInterval) clearInterval(autoSlideInterval); });
+            carousel.addEventListener('mouseleave', resetAutoSlide);
+        }
+
+        document.addEventListener('DOMContentLoaded', function() {
+            fetchChuanInfo();
+            
+            if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches && !document.documentElement.classList.contains('dark')) {
+                document.documentElement.classList.add('dark');
+            }
+            
+            const themeToggle = document.getElementById('theme-toggle');
+            if(themeToggle) {
+                themeToggle.addEventListener('click', function() {
+                    document.documentElement.classList.toggle('dark');
+                });
+            }
+            
+            const mobileMenuButton = document.getElementById('mobile-menu-button');
+            const mobileMenu = document.getElementById('mobile-menu');
+            if(mobileMenuButton && mobileMenu) {
+                mobileMenuButton.addEventListener('click', function() {
+                    mobileMenu.classList.toggle('hidden');
+                });
+            }
+            
+            const animatedElements = document.querySelectorAll('.appear-animation');
+            const observer = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        entry.target.style.opacity = 1;
+                        entry.target.style.transform = 'translateY(0)';
+                    }
+                });
+            }, { threshold: 0.1 });
+            
+            animatedElements.forEach(el => {
+                el.style.opacity = 0;
+                el.style.transform = 'translateY(20px)';
+                el.style.transition = 'opacity 0.6s ease-in-out, transform 0.6s ease-in-out';
+                observer.observe(el);
+            });
+            
+            const authCodeInput = document.getElementById('auth-code-input');
+            const authCodeSubmit = document.getElementById('auth-code-submit');
+            const authCodeError = document.getElementById('auth-code-error');
+            const clearAuthCode = document.getElementById('clear-auth-code');
+            
+            if (clearAuthCode && authCodeInput && authCodeError) {
+                clearAuthCode.addEventListener('click', function() {
+                    authCodeInput.value = '';
+                    authCodeError.classList.add('hidden');
+                    authCodeInput.focus();
+                });
+            }
+            
+            async function validateAndRedirect() {
+                if(!authCodeInput || !authCodeError) return;
+                const code = authCodeInput.value.trim();
+                if (!code) {
+                    authCodeError.classList.remove('hidden');
+                    authCodeInput.classList.add('border-red-500', 'focus:border-red-500', 'focus:ring-red-500');
+                    authCodeInput.focus();
+                    return;
+                }
+                authCodeError.classList.add('hidden');
+                authCodeInput.classList.remove('border-red-500', 'focus:border-red-500', 'focus:ring-red-500');
+                try {
+                    const response = await fetch(`/codetoken?logintoken=${code}`, { redirect: 'manual' });
+                    console.log("Status code:", response.status);
+                    if (response.status === 0 || response.type === 'opaqueredirect' || (response.status >= 300 && response.status < 400) ) { // 0 for some environments, 302 for redirect
+                         window.location.href = `/codetoken?logintoken=${code}`; // Let browser handle redirect by re-requesting
+                    } else {
+                         alert("授权码错误或者过期，请仔细检查或联系管理员");
+                    }
+                } catch (error) {
+                    console.error('验证请求失败:', error);
+                    alert("验证请求失败，请稍后重试");
+                }
+            }
+
+            if (authCodeSubmit && authCodeInput) {
+                authCodeSubmit.addEventListener('click', validateAndRedirect);
+                authCodeInput.addEventListener('keypress', function(e) {
+                    if (e.key === 'Enter') validateAndRedirect();
+                });
+            }
+            
+            const urlParams = new URLSearchParams(window.location.search);
+            if (urlParams.has('login') || window.location.hash === '#auth-code-section') {
+                const authCodeSectionEl = document.getElementById('auth-code-section');
+                if (authCodeSectionEl) {
+                    setTimeout(() => {
+                        authCodeSectionEl.scrollIntoView({ behavior: 'smooth' });
+                        if(authCodeInput) authCodeInput.focus();
+                    }, 500);
+                }
+            }
+            
+            const loginButtons = document.querySelectorAll('a[href="#auth-code-section"]');
+            loginButtons.forEach(button => {
+                button.addEventListener('click', function(e) {
+                    e.preventDefault();
+                    const authCodeSectionEl = document.getElementById('auth-code-section');
+                    if (authCodeSectionEl) {
+                        authCodeSectionEl.scrollIntoView({ behavior: 'smooth' });
+                        if(authCodeInput) authCodeInput.focus();
+                    }
+                });
+            });
+            
+            const searchInput = document.getElementById('search-input');
+            const searchButton = document.getElementById('search-button');
+            
+            function scrollToAuthCodeSection() {
+                const authCodeSectionEl = document.getElementById('auth-code-section');
+                const authCodeInputEl = document.getElementById('auth-code-input');
+                if (authCodeSectionEl && authCodeInputEl) {
+                    authCodeSectionEl.scrollIntoView({ behavior: 'smooth' });
+                    setTimeout(() => {
+                        authCodeInputEl.focus();
+                        const highlightBox = document.querySelector('.auth-code-highlight');
+                        if (highlightBox) {
+                            highlightBox.style.animation = 'none';
+                            highlightBox.offsetHeight; 
+                            highlightBox.style.animation = 'highlight-pulse 1s 3 ease-in-out';
+                        }
+                    }, 500);
+                }
+            }
+
+            if (searchInput && searchButton) {
+                searchButton.addEventListener('click', scrollToAuthCodeSection);
+                searchInput.addEventListener('keypress', function(e) {
+                    if (e.key === 'Enter') scrollToAuthCodeSection();
+                });
+            }
+
+            // Modal button listeners
+            const modalOkButton = document.getElementById('modal-ok-button');
+            const modalDontShowButton = document.getElementById('modal-dont-show-button');
+
+            if (modalOkButton) {
+                modalOkButton.addEventListener('click', closeAnnouncementModal);
+            }
+
+            if (modalDontShowButton) {
+                modalDontShowButton.addEventListener('click', () => {
+                    const now = new Date().getTime();
+                    const threeHoursInMs = 12 * 60 * 60 * 1000;
+                    localStorage.setItem('announcementHiddenUntil', (now + threeHoursInMs).toString());
+                    closeAnnouncementModal();
+                });
+            }
+
+            // Add event listener for notification bell
+            const notificationBell = document.getElementById('notification-bell');
+            if (notificationBell) {
+                notificationBell.addEventListener('click', function(e) {
+                    e.preventDefault();
+                    
+                    // Ensure content is loaded when bell is clicked
+                    if (currentAnnouncementContent) {
+                        const modalAnnouncementEl = document.getElementById('modal-announcement-content');
+                        if (modalAnnouncementEl && typeof marked !== 'undefined') {
+                            modalAnnouncementEl.innerHTML = marked.parse(currentAnnouncementContent);
+                        }
+                    }
+                    
+                    openAnnouncementModal();
+                });
+            }
+
+            // Close modal on Escape key
+            window.addEventListener('keydown', (event) => {
+                if (event.key === 'Escape' && announcementModal && !announcementModal.classList.contains('hidden')) {
+                    closeAnnouncementModal();
+                }
+            });
+
+            // Close modal on overlay click
+            if (announcementModal) {
+                announcementModal.addEventListener('click', (event) => {
+                    // Check if the click is on the overlay itself (event.target) and not on its children (modalInteractiveContent)
+                    if (event.target === announcementModal) { 
+                        closeAnnouncementModal();
+                    }
+                });
+            }
+        });
+    </script>
 </body>
 </html>

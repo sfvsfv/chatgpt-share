@@ -1,0 +1,50 @@
+{
+    "status": true,
+    "description": "",
+    "announcement_inside": "最新QQ群：1040544541，支持最新版画图（使用4O模型输入/，选择“创建图像”即可，负载提示五分钟刷新即可；快速画图选择gpt-4o-image模型），支持Deep Research（选择o4-mini模型，打开深度研究按钮，按照提示回答，出进度条后等10分钟后刷新即可回答完成）。我们是来自Apple、腾讯、阿里、清华的小团队，现已支持大量模型如上所示。若遇到商店打不开的情况，或有售前、售后、授权码续费保留聊天记录或购买等需求，联系微信: hxgsrubxjogxeeag",
+    "announcement": "## 🚀 新模型重磅上线 | 数学建模神器 | 知网AIGC降低 来袭！\n\n \n\n\n **MathAI**：全能数学建模思路梳理、算法公式推导、代码编写初步实现。\n**ProWriteAI**：科研写作专家，深度优化语言风格，适配学术平台降重规则。\n\n---\n\n **GPTS数学建模比赛编程助手**：专为小白打造！自动生成Matlab/Python建模代码生成， \n\n🧠 **零经验也能无痛起步，轻松参赛！**\n  * **zhiwang-aigc智能体**：专为知网AIGC检测系统打造，\n  多策略深度重构文本，**独家无限量调用，降AI率效果显著！**\n\n> **建议：数学建模初学者请无脑选择GPTS的“数学建模比赛编程助手”，不要用其它模型，避免踩坑！**\n\n---\n\n 🧠 新模型上线：Gemini-2.5-Pro系列 强爆了，代码能力拉满超过Claude3.7，成为最强写代码模型!",
+    "carousel": [
+        {
+            "image_url": "http://img.picui.cn/free/2025/04/08/67f49adde83dd.png",
+            "description": ""
+        },
+        {
+            "image_url": "http://img.picui.cn/free/2025/04/08/67f49aded9ae4.png",
+            "description": ""
+        }
+    ],
+    "model_list": {
+        "gpt 4o": "",
+        "gpt 4.0": "",
+        "gpt-4o-image": "",
+        "gpt 4.5": "",
+        "Deep Research": "",
+        "gpt 4.1": "",
+        "gpt 4.1-mini": "",
+        "O4-mini": "",
+        "O4-mini-high": "",
+        "O3": "",
+        "Gemini 2.0 pro": "",
+        "gemini-2.0-flash-thinking-exp": "",
+        "gemini-2.5-flash": "",
+        "gemini-2.0-pro-exp-02-05": "",
+        "gemini-2.5-pro-preview-05-06": "",
+        "DeepSeek R1": "",
+        "DeepSeek V3 0324": "",
+        "grok-3": "",
+        "grok-3-thinking": "",
+        "grok-3-deepsearch": "",
+        "llama-4-maverick": "",
+        "智能体MathAI": "",
+        "智能体ProWriteAI": "",
+        "智能体zhiwiang-AIGC": ""
+    },
+    "features": [
+        "原版 UI 体验，SSL 加密护航：原汁原味的 UI 界面，操作顺手。SSL 加密保障数据传输安全，使用更安心。",
+        "突破网络限制：不受网络和地区约束，无需额外工具，随时随地畅用服务。",
+        "多模型功能同步：实时跟进 gpt 4o、Grok3 等众多模型的最新功能，始终体验前沿技术。",
+        "多功能集成：拥有 GPTs 商店、Dall - E 绘图、联网搜索和代码解释器，满足多样需求。",
+        "企业版数据安全：为企业定制 TEAM 版，数据不用于 GPT 训练，保障隐私安全。",
+        "新版 智能体MathAI/ProWriteAI/GPTS数学建模比赛编程助手：超强性能拉满，专注数学建模，轻松拿奖。"
+    ]
+}
