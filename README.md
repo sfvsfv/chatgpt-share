@@ -49,12 +49,6 @@ https://hello.gptniubi.online <br>
 见b站：https://space.bilibili.com/591228087
 
 
-## 敏感词检测
-
-如果提示敏感词，拒绝黄赌毒，请使用该地址检测后避开敏感词再提问：[[https://limit.mosha.cloud](https://limit.zhangsan.cool)](https://limit.zhangsan.cool)
-![image](https://github.com/user-attachments/assets/2e2ce911-dcdd-4fd9-818b-43d2e26d4adf)
-
-
 
 
 ## 为什么选我们？
