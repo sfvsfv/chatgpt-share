@@ -9,14 +9,14 @@ https://share-hk.zhangsan.cool
 <br>
 https://hello.aiforme.cloud
 <br>
-![image](https://github.com/user-attachments/assets/4cfb9dbd-eb74-475e-a739-f9cc2e78b93c)
+<img width="1352" height="660" alt="cd71de04-77a9-44f9-91c8-2899e7f2405c" src="https://github.com/user-attachments/assets/84e48eab-4392-41b0-b987-d9022db5a7a6" />
 
 
               
 售后售前微信：hxgsrubxjogxeeag
 
 
-## 网站完整使用教程
+## 新用户网站完整使用教程
 
 https://docs.qq.com/doc/DRkJ4SHRtWmdmcFFW
 
