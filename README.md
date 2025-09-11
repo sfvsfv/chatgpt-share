@@ -48,20 +48,20 @@ https://docs.qq.com/doc/DRkJ4SHRtWmdmcFFW
 
 
 ## 梯子推荐解决无法访问网站，无法上传文件问题
-地址：https://xn--9kq250ga.cc
+地址：https://maomaoyun.net/#/register?code=IrwcdWxf
 
-推荐原因：个别地区无法正常访问网站，或者无法正常上传文件。需要开梯子才能正常访问。
+推荐原因：个别地区无法正常访问网站。需要开梯子才能正常访问,特别是福建，江苏以及部分学校的校园网。<br>
 
 <img width="643" alt="image" src="https://github.com/user-attachments/assets/23b1be4a-afbe-40fe-9922-56353fa88449">
 
-
+<br>
 <img width="764" alt="image" src="https://github.com/user-attachments/assets/8e8f9f63-f5a2-4d56-be5a-0e116026f0ab">
 
-
+<br>
 如何安装梯子：打开上述地址，有对应入口和配置教程，看着来就行。价格很便宜，性价比挺高的，个人在使用。当然如果你有其他梯子就不要买了哈。
 
 
-注意：必须代理选择全局方能正常使用
+注意：必须代理选择全局方能正常使用<br>
 ![image](https://github.com/user-attachments/assets/6e96f46f-4762-4f69-a8f0-55dd78d2fb1d)
 
 
