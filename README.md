@@ -1,4 +1,4 @@
-# ChatGPT使用教程，官网直达，满血无降智，无需魔法非套壳
+# ChatGPT使用教程，两年老店，官网直达，满血无降智，无需魔法非套壳
 
 必须使用谷歌浏览器。如果某个访问比较慢可以换下另一个网址。网站地址（哪个好用就用哪个，都一样）：<br>
 主站：
@@ -8,6 +8,8 @@ https://share.zhangsan.cool
 https://share-hk.zhangsan.cool
 <br>
 https://hello.aiforme.cloud
+<br>
+https://share.searchknowledge.cloud
 <br>
 <img width="1352" height="660" alt="cd71de04-77a9-44f9-91c8-2899e7f2405c" src="https://github.com/user-attachments/assets/84e48eab-4392-41b0-b987-d9022db5a7a6" />
 
