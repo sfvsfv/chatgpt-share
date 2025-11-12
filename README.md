@@ -52,7 +52,7 @@ https://docs.qq.com/doc/DRkJ4SHRtWmdmcFFW
 ## 梯子推荐解决无法访问网站，无法上传文件问题
 地址：https://maomaoyun.net/#/register?code=IrwcdWxf
 
-推荐原因：个别地区无法正常访问网站。需要开梯子才能正常访问,特别是福建，江苏以及部分学校的校园网。<br>
+推荐原因：个别地区无法正常访问网站：网站打不开，网站打开慢，网站加载白屏。需要开梯子才能正常访问,特别是福建，江苏以及部分学校的校园网。<br>
 
 <img width="643" alt="image" src="https://github.com/user-attachments/assets/23b1be4a-afbe-40fe-9922-56353fa88449">
 
