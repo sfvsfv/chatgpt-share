@@ -33,11 +33,11 @@ https://docs.qq.com/doc/DRkJ4SHRtWmdmcFFW
 
 <img width="643" alt="image" src="https://github.com/user-attachments/assets/23b1be4a-afbe-40fe-9922-56353fa88449">
 
-<br>
-<img width="764" alt="image" src="https://github.com/user-attachments/assets/8e8f9f63-f5a2-4d56-be5a-0e116026f0ab">
 
 <br>
-如何安装梯子：打开上述地址，有对应入口和配置教程，看着来就行。价格很便宜，性价比挺高的，个人在使用。当然如果你有卖了其他梯子就不要买这个了哈。
+如何安装梯子：打开上述地址，有对应入口和配置教程，看着来就行。价格很便宜，10块钱一个月性价比挺高的，个人在使用。当然如果你有买了其他梯子就不要买这个了哈。
+
+注：不用担心安装这个违规，很多大学老师都在用，只要是用于学习用途，没事的哈。
 
 
 注意：必须代理选择全局方能正常使用<br>
