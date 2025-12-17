@@ -1,55 +1,181 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
-    <title>claude-Share官方站点</title>
-    <meta charset="UTF-8"> <!-- 设置字符编码为 UTF-8 -->
+    <title>Claude-Share 官方站点</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
+        :root {
+            --primary-color: #d97757;
+            --bg-color: #f4f4f5;
+            --card-bg: #ffffff;
+            --text-main: #333333;
+            --warning-bg: #fff8e6;
+        }
+
+        /* 重置基础样式 */
+        html, body {
+            height: 100%;
+            margin: 0;
+            padding: 0;
+            width: 100%;
+        }
+
         body {
-            background-color: lightblue; /* 修改背景颜色为浅蓝色 */
-            color: black; /* 设置文字颜色为黑色 */
-            font-family: Arial, sans-serif; /* 设置字体 */
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            
+            /* 布局核心修复 */
+            display: flex; 
+            /* 不再使用 align-items: center，避免小屏幕顶部截断 */
+            overflow-y: auto; /* 允许滚动 */
         }
+
+        .container {
+            background-color: var(--card-bg);
+            
+            /* 核心：margin: auto 在 flex 容器中会自动实现水平+垂直居中，且不会截断内容 */
+            margin: auto; 
+            
+            /* 宽版设计：让内容横向排布，看起来更扁 */
+            width: 92%; 
+            max-width: 880px; 
+            
+            /* 紧凑的内边距 */
+            padding: 25px 35px; 
+            
+            border-radius: 12px;
+            box-shadow: 0 4px 24px rgba(0, 0, 0, 0.08);
+            box-sizing: border-box;
+            
+            /* 增加上下安全距离，防止太贴屏幕边缘 */
+            margin-top: max(20px, auto);
+            margin-bottom: max(20px, auto);
+        }
+
         h1 {
-            text-align: center; /* 标题居中 */
-            margin-bottom: 30px; /* 增加标题与内容的间距 */
+            font-size: 22px;
+            text-align: center;
+            margin: 0 0 8px 0;
+            color: #2b2b2b;
+            font-weight: 700;
         }
-        h3 {
-            text-align: center; /* 标题居中 */
-            margin-bottom: 30px; /* 增加标题与内容的间距 */
+
+        .status-badge {
+            display: block;
+            width: fit-content;
+            margin: 0 auto 15px auto;
+            font-size: 13px;
+            background-color: #e6fffa;
+            color: #10a37f;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-weight: 600;
         }
-        h4 {
-            text-align: center; /* 标题居中 */
-            margin-bottom: 20px; /* 增加标题与内容的间距 */
+
+        .alert-box {
+            background-color: var(--warning-bg);
+            border-left: 4px solid var(--primary-color);
+            padding: 10px 15px;
+            border-radius: 4px;
+            margin-bottom: 15px;
+            color: #594214;
+            font-size: 14px;
+            line-height: 1.5;
         }
+
+        ol {
+            padding-left: 20px;
+            margin: 0 0 15px 0;
+            font-size: 14px;
+            color: #444;
+        }
+
+        li {
+            margin-bottom: 8px;
+            line-height: 1.6;
+        }
+        
+        .nowrap {
+            white-space: nowrap; 
+        }
+
+        a {
+            color: var(--primary-color);
+            text-decoration: none;
+            border-bottom: 1px dashed var(--primary-color);
+        }
+
         .purchase-link {
-            display: block; /* 让链接独占一行 */
-            background-color: yellow; /* 设置链接背景颜色为黄色 */
-            color: black; /* 设置链接文字颜色为黑色 */
-            text-align: center; /* 链接文本居中 */
-            padding: 10px; /* 增加内部填充，使链接更加突出 */
-            margin-top: 20px; /* 与上面内容的间隙 */
-            text-decoration: none; /* 移除下划线 */
-            font-weight: bold; /* 字体加粗 */
-            border-radius: 5px; /* 边角圆滑处理 */
+            display: block;
+            background: linear-gradient(135deg, #d97757 0%, #c45b38 100%);
+            color: white;
+            text-align: center;
+            padding: 12px;
+            text-decoration: none;
+            font-weight: 600;
+            border-radius: 8px;
+            font-size: 16px;
+            margin-top: 5px; /* 紧凑一点 */
+            transition: transform 0.2s, box-shadow 0.2s;
+            border: none;
+        }
+
+        .purchase-link:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 15px rgba(217, 119, 87, 0.3);
+        }
+
+        .footer-note {
+            text-align: center;
+            margin-top: 15px;
+            font-size: 12px;
+            color: #999;
+        }
+
+        /* 移动端适配 */
+        @media (max-width: 600px) {
+            .container {
+                padding: 20px;
+                width: 94%;
+                /* 手机上 margin: auto 有时不管用，强制上下边距 */
+                margin-top: 20px;
+                margin-bottom: 20px;
+            }
+            h1 { font-size: 20px; }
         }
     </style>
 </head>
 <body>
-<div style="grid-column: span 1 / span 1;">
 
-    <h1>claude中国区代理官方站点（状态：正常，支持最新模型） </h1>
-        <h3>所有人优先使用Max入口，基本无需换号，体验很好，以后我们不上pro号了。由于官网封号严重，聊完一定要把记录复制出来避免丢失。 </h3>
+<div class="container">
     
-    <ol>
-       
-        <li>支持文件上传,Artifacts实时代码预览和联网等。售后/售前微信：hxgsrubxjogxeeag   请下方店铺购买授权码，店铺打不开请联系微信。</li>
-        <li>授权码限制：总共每天40次。官网次数非常少且有周限制了还封号。GPT5镜像的相关模型次数多：https://share.zhangsan.cool</li>
-        <li>入口提示达到限制没次数,请右上角点击换号按钮并新建对话 ；提示达到每天40次频率，等24小时刷新；其它异常：请联系售后微信。    </li>
-         <li>官网状态查看：https://status.claude.com   </li>
+    <h1>Claude 中国区代理官方站点</h1>
+    <div class="status-badge">● 状态：正常 | 支持最新Opus/Sonnet4.5模型</div>
 
+    <div class="alert-box">
+        <strong>🔥 推荐使用 Max 入口：</strong>体验最佳，基本无需换号。鉴于官网封号严重，<b>请务必在聊完后将重要记录复制保存</b>。后续不再上线 Pro 号。
+    </div>
+
+    <ol>
+        <li>
+            <strong>功能支持：</strong>文件上传、Artifacts 代码预览及联网。<span class="nowrap">售后微信：hxgsrubxjogxeeag</span> (店铺打不开请联系微信)
+        </li>
+        <li>
+            <strong>授权限制：</strong>共每天 40 次。官网次数更少且易封号，介意次数勿买。</a>
+        </li>
+        <li>
+            <strong>常见问题：</strong>
+            “达到限制”请点右上角【换号】并【新建对话】；“每天40次频率”需等24小时；其它异常联系售后微信。
+        </li>
     </ol>
-    <a href="https://hello.gptniubi.online" class="purchase-link"> claude 4.5 模型独享授权码购买 </a>
+
+    <a href="https://hello.gptniubi.online" class="purchase-link">
+        🛒 购买 Claude 4.5 模型独享授权码
+    </a>
 
 </div>
+
 </body>
 </html>
