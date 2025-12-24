@@ -1,0 +1,27 @@
+| 模型名称                          | 次数限制 |
+| ----------------------------- | ---: |
+| **gpt-5.2**              |   60次/3h，表示每3小时60次，次数会刷新  |
+| **gpt-5.2-thinking(包括extend)**              | 40次/24h  |
+| **gpt-5-1--codex-low**                    |  100次/24h  |
+| **gpt-5-1-codex-medium**                    |  50次/24h  |
+| **gpt-5-1-codex-high**                    |  30次/24h  |
+| **gpt-5-2-codex**                    |  30次/24h  |
+ **grok-3**               |  300次/24h  |
+| **grok-4-1**               |  100次/24h  |
+| **grok-4-1-thinking**               |  50次/24h  |
+ **grok-4-1-deepsearch**               |  30次/24h  |
+| **gemini-3-flash**              | 100次/24h  |
+| **gemini-3-pro**              | 80次/24h  |
+| **Nano Banana**              | 30次/24h  |
+| **Nano Banana Pro**              | 30次/24h  |
+| **画图sora-image**              | 200次/24h  |
+| **视频sora_video2-landscape**              | 30次/24h  |
+| **视频sora_video2-portrait**              | 30次/24h  |
+| **DeepSeek-R1-0528**         | 100次/24h  |
+| **deepSeek-v3-0324**         | 100次/24h  |
+| **其余国产模型**              | 100次/24h  |
+| **数学建模智能体MathAI**             |100次/24h  |
+| **降中文AI率智能体ClearAI**              | 50次/24h  |
+| **降英文AI率智能体ClearAI**              | 50次/24h  |
+| **research**               |  5次/1week  |
+| **agent**               |  6次/1week  |
