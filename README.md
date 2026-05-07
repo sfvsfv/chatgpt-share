@@ -11,7 +11,7 @@ https://hello.aiforme.cloud
 <br>
 https://share.searchknowledge.cloud
 <br>
-<img width="1352" height="660" alt="cd71de04-77a9-44f9-91c8-2899e7f2405c" src="https://github.com/user-attachments/assets/84e48eab-4392-41b0-b987-d9022db5a7a6" />
+<img width="2610" height="1374" alt="image" src="https://github.com/user-attachments/assets/ecaf3603-f354-4836-ba75-3687953f982a" />
 
 
               
