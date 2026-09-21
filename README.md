@@ -5,9 +5,7 @@
 <br>
 https://share.zhangsan.cool
 <br>
-https://share-hk.zhangsan.cool
-<br>
-https://hello.aiforme.cloud
+https://share.thinkmore.cloud
 <br>
 https://share.searchknowledge.cloud
 <br>
@@ -16,11 +14,6 @@ https://share.searchknowledge.cloud
 
               
 售后售前微信：hxgsrubxjogxeeag
-
-
-## 新用户网站完整使用教程
-
-https://docs.qq.com/doc/DRkJ4SHRtWmdmcFFW
 
 ## 视频教学,每月更新
 见b站：https://space.bilibili.com/591228087
