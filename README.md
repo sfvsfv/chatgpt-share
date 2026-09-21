@@ -9,7 +9,7 @@ https://share.thinkmore.cloud
 <br>
 https://share.searchknowledge.cloud
 <br>
-<img width="2610" height="1374" alt="image" src="https://github.com/user-attachments/assets/ecaf3603-f354-4836-ba75-3687953f982a" />
+<img width="2764" height="1476" alt="image" src="https://github.com/user-attachments/assets/7119d50e-f65d-4474-b761-9f80210e3ed1" />
 
 
               
@@ -34,8 +34,6 @@ https://share.searchknowledge.cloud
 
 
 注意：必须代理选择全局方能正常使用<br>
-![image](https://github.com/user-attachments/assets/6e96f46f-4762-4f69-a8f0-55dd78d2fb1d)
-
 
 
 
